@@ -22,6 +22,8 @@ for x in PROOF.values():
     im.save(temporary,format='WEBP',quality=85)
     if not temporary.stat().st_size: raise ValueError('Empty proof image: '+str(src))
     temporary.replace(target)
+from r2_media import configure as configure_r2, poster as media_poster, transform_html as transform_media
+configure_r2(PROOF)
 P=''
 def u(path=''): return P+path
 A='<span class="arrow" aria-hidden="true">↗</span>'
@@ -51,13 +53,13 @@ def proof_card(id):
     kind='Student voice' if student else 'Written feedback' if feedback else 'Session recording'
     cat='Students' if student else 'Feedback' if feedback else 'Sessions'
     if 'iim' in id or id=='mindfulness-session':cat+=' IIM'
-    visual=img('proof-'+id,x['title'])
+    visual=media_poster(id,x['title'],u)
     if id=='mindfulness-session':visual='<div class="mindful-poster"><small>DUBAI · 2023</small><strong>Mindfulness.<br>Leadership.<br>Experience.</strong><span>A Bluzee session with<br>Professor Debashis Chatterjee</span></div>'
-    if student:control=f'<a class="proof-visual" href="{x["original_player_url"]}" target="_blank" rel="noopener" aria-label="Watch {E(x["title"])} on Bluzee">{visual}{PLAY}</a>'
+    if student:control=f'<button type="button" class="proof-visual" data-video="{E(x["original_video_url"])}" data-title="{E(x["title"])}" data-source="{u("testimonials/index.html#participant-voices")}" data-source-label="View testimonials ↗" aria-label="Play {E(x["title"])} testimonial">{visual}{PLAY}</button>'
     elif feedback: control=f'<a class="proof-visual" href="{u("assets/volvo-feedback-original.png")}" target="_blank" rel="noopener" aria-label="Read original Volvo appreciation letter">{visual}<span class="play" aria-hidden="true">↗</span></a>'
     else:control=f'<button class="proof-visual" data-video="{x["original_video_url"]}" data-title="{E(x["title"])}" data-source="{x["source_pages"][0]}" aria-label="Play {E(x["title"])}">{visual}{PLAY}</button>'
-    source=x.get('original_player_url') or x['source_pages'][0]
-    label='Watch on Bluzee ↗' if student else 'Original source ↗'
+    source=x['original_video_url'] if x.get('r2_object_key') else x.get('original_player_url') or x['source_pages'][0]
+    label='Open recording ↗' if x.get('r2_object_key') else 'Original source ↗'
     return f'<article class="proof-card {"student" if student else "feedback" if feedback else ""} reveal" data-item data-category="{cat}" data-search="{E(x["title"].lower())} {cat.lower()}">{control}<p class="kind">{kind}</p><h3>{E(x["title"])}</h3><a class="source-link" href="{source}" target="_blank" rel="noopener">{label}</a></article>'
 def proof_section(ids,title='Experience. In their own words.',students=False):return f'<section class="section light"><div class="wrap"><div class="section-head"><div><p class="eyebrow">PEOPLE &amp; PERSPECTIVES</p><h2>{title}</h2></div>{link("Explore Stories & Sessions",u("stories/index.html"))}</div><div class="proof-grid {"students" if students else ""}">'+''.join(proof_card(x) for x in ids)+'</div></div></section>'
 def mini(slug):
@@ -138,6 +140,7 @@ def write(path,title,description,content,active=''):
     html=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta name="description" content="{E(description)}"><meta name="theme-color" content="#07101f"><title>{E(title)} | Bluzee</title><link rel="icon" href="{u('assets/favicon.svg')}" type="image/svg+xml"><link rel="stylesheet" href="{u('assets/styles.css')}"><script src="{u('assets/app.js')}" defer></script></head><body>{header(active)}<main id="main">{body}</main>{footer()}</body></html>'''
     html=html.replace('</head>',purpose_assets+media_assets+human_assets+'</head>')
     html=decorate_html(html,path)
+    html=transform_media(html,path,u)
     out=DIST/path;out.parent.mkdir(parents=True,exist_ok=True);out.write_text(html)
 from enhancements import install
 install(globals())

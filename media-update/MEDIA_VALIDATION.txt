@@ -1,0 +1,63 @@
+BLUZEE MEDIA UPDATE v7 — VALIDATION
+
+Scope: local exported v6 website + owner-supplied CSV; no live publication.
+
+PASS: all 20 HTML pages built; all local asset and anchor references checked;
+one main heading per page; no duplicate IDs; no obsolete Pilora name.
+PASS: all 37 mapped R2 object keys exactly match the 43-file CSV inventory.
+PASS: all 12 supplied videos have player controls; five testimonials present.
+PASS: Unicode/space URL encoding, including the double space in DSTI logo.
+PASS: one unique legacy Wix video remains, the existing ERP Hub launch.
+PASS: gallery and journal image previews are locally hosted; full-size
+links use R2 when mapped or an existing local copy otherwise.
+PASS: original preservation inventory, brochure PDFs and guide PDF unchanged.
+PASS: rebuilding produces identical dist files; JavaScript syntax parses.
+PASS: desktop testimonial cards, Adheena placeholder and Events filter
+reviewed in browser. Leadership filter shows Mindfulness and Barry interview.
+PASS: Events and Testimonials rendered in 390px embedded mobile viewports;
+text, cards and filters fit the reviewed views. This is not physical-device QA.
+
+Remote media verification is LIMITED: user-confirmed Spago image and IIT
+Madras video. Automated R2 requests received Cloudflare error 1010, so no
+claim of full remote video/audio/seek testing is made. Other links are
+validated against the supplied inventory, not against downloaded bytes.
+Ten gallery originals were matched by unique original byte size and event
+label, not by hashing the R2 objects. Confirm visible content after deploying.
+
+Contact/backend, SEO indexing, production domain cutover, R2 production
+hostname, DNS/email and remaining legacy pages are outside this patch.
+
+AUTOMATED CHECK OUTPUT
+about/index.html links 83
+contact/index.html links 66
+design-notes/index.html links 106
+events/index.html links 108
+index.html links 95
+offerings/index.html links 79
+products/dealtailor/index.html links 78
+products/dimaq/index.html links 78
+products/nexus/index.html links 75
+products/qsrpro/index.html links 75
+products/tradesphere/index.html links 75
+services/ai-experience-hub/index.html links 79
+services/erp-experience-hub/index.html links 85
+services/erp-support/index.html links 78
+services/erp-talent-outsourcing/index.html links 78
+services/odoo-erp-consulting/index.html links 78
+services/odoo-erp-implementation/index.html links 78
+services/professional-character/index.html links 89
+stories/index.html links 88
+testimonials/index.html links 81
+PAGES 20 ISSUES []
+
+{
+  "pages": 20,
+  "inventory_files": 43,
+  "mapped_objects": 37,
+  "mapped_videos": 12,
+  "testimonials": 5,
+  "remaining_legacy_video_count": 1,
+  "issues": []
+}
+
+JavaScript syntax: PASS

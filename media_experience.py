@@ -1,5 +1,6 @@
 """Events and Testimonials: original evidence in a cinematic editorial setting."""
 from html import escape as E
+from r2_media import poster as media_poster
 import re
 
 def install(ns):
@@ -45,9 +46,10 @@ def install(ns):
 
     def participant_cards():
         cards=[]
-        for index,key in enumerate(['manas-aravind','muhammed-ansil-pa','anirudh-vk','vaishnav-pm']):
+        for index,key in enumerate(['manas-aravind','muhammed-ansil-pa','anirudh-vk','vaishnav-pm','adheena']):
             x=proof[key]
-            cards.append(f'''<article class="voice-story reveal"><a class="voice-story-visual" href="{E(x['original_player_url'])}" target="_blank" rel="noopener" aria-label="Watch {E(x['title'])} on Bluzee"><img src="{u('assets/proof-'+key+'.webp')}" alt="Original video poster for {E(x['title'])}" loading="lazy" width="1400" height="788"><span class="voice-play" aria-hidden="true">▶</span><span class="voice-story-watch">WATCH THEIR STORY <i aria-hidden="true">↗</i></span></a><div class="voice-story-info"><span class="voice-story-number">0{index+1}</span><div><p>PARTICIPANT PERSPECTIVE</p><h3>{E(x['title'])}</h3></div><a href="{E(x['original_player_url'])}" target="_blank" rel="noopener" aria-label="Open {E(x['title'])}'s original video gallery">↗</a></div></article>''')
+            visual=media_poster(key,x['title'],u)
+            cards.append(f'''<article class="voice-story reveal"><button type="button" class="voice-story-visual" data-video="{E(x['original_video_url'])}" data-title="{E(x['title'])}" data-source="{u('testimonials/index.html#participant-voices')}" data-source-label="View testimonials ↗" aria-label="Play {E(x['title'])} testimonial">{visual}<span class="voice-play" aria-hidden="true">▶</span><span class="voice-story-watch">WATCH THEIR STORY <i aria-hidden="true">↗</i></span></button><div class="voice-story-info"><span class="voice-story-number">0{index+1}</span><div><p>PARTICIPANT PERSPECTIVE</p><h3>{E(x['title'])}</h3></div><a href="{E(x['original_video_url'])}" target="_blank" rel="noopener" aria-label="Open {E(x['title'])}'s recording">↗</a></div></article>''')
         return '<div class="voice-story-grid">'+''.join(cards)+'</div>'
 
     old_testimonials=ns['testimonials']

@@ -1,0 +1,84 @@
+BLUZEE R2 MEDIA UPDATE v7 — APPLY TO THE EXISTING WEBSITE
+Prepared 24 October 2026
+
+This ZIP is a small update package, NOT a complete standalone website.
+It is based on Bluzee_v6_Complete.zip. Keep your existing repository files.
+It contains updated source AND the ready-built dist pages. Your current
+Cloudflare build command (exit 0) serves dist without rebuilding Python.
+
+WINDOWS / GITHUB DESKTOP — STEP BY STEP
+1. Download this ZIP. Right-click it and choose Extract All.
+2. Open GitHub Desktop and select bluzee-website. Fetch/Pull origin first.
+   If Desktop shows your own uncommitted edits, save them in a commit first
+   and keep a copy before merging this update.
+3. Choose Repository > Show in Explorer. Open the repository root: this is
+   the folder already containing dist, content-source and build.py.
+4. In the EXTRACTED update, select ALL contents (dist, content-source,
+   media-update, Python files and this instruction file). Copy and paste
+   them into that repository root. Merge the folders and choose
+   'Replace the files in the destination' for the included files.
+   DO NOT delete the existing dist folder. DO NOT put the ZIP itself, or a
+   second nested update folder, inside dist. Existing PDFs/assets must stay.
+5. Return to GitHub Desktop. Review Changes. Use the summary:
+   Connect website media to Cloudflare R2
+   Click Commit to main, then Push origin.
+6. Cloudflare Pages should run the deployment for that commit. Wait for its
+   successful completion. Keep these settings:
+   Production branch: main | Framework: None | Build command: exit 0
+   Build output directory: dist | Root directory: blank
+7. Open https://bluzee-website.pages.dev/ and press Ctrl+F5. Test Events,
+   Testimonials, ERP Experience Hub and the Professional Character page.
+   Play each recording, check its title/content, seek within it, and close
+   the player. Test the additional-photo and Volvo letter links too.
+   Check the leadership portraits on About Us. Test on a phone as well.
+
+WHAT IS INCLUDED
+- All 12 supplied MP4 filenames mapped, including five participant stories.
+- Native in-page testimonial playback with an open-recording fallback.
+- Barry's interview in Events, Leadership category, and the media archive.
+- 10 matched gallery originals plus two additional-photo links on R2.
+- Existing small image previews stay in Pages for efficient loading.
+- Seven optimized leadership portraits: 4.24 MB reduced to about 0.32 MB.
+- Exact filename case, spaces, accented characters and emoji URL-encoded.
+- The source mapping is content-source/r2-media.json.
+- media-update/MEDIA_MAPPING.csv accounts for every one of the 43 files.
+- media-update/MEDIA_VALIDATION.txt describes validation and its limits.
+
+IMPORTANT ITEMS STILL TO COMPLETE
+- The ERP Experience Hub inauguration/launch VIDEO was not identifiable in
+  the supplied list. Its existing Wix video link is preserved. The ERP Hub
+  introduction and Barry interview are different recordings.
+- Six files are unassigned: Haines, Spago, SPCS and Tiltlabs logos; the
+  hiring flyer; and the ERP methodology GIF. Confirm their intended use
+  before adding relationship claims or job advertisements.
+- Four gallery originals were not in the supplied list. Their existing
+  locally hosted image copies remain available. Existing journal images
+  also open preserved local copies.
+- Your browser has confirmed Spago.jpg and IITMadrasExport.mp4. Automated
+  R2 requests here were blocked by Cloudflare error 1010. The other remote
+  files and video playback therefore need the browser checks in step 7.
+
+BEFORE SWITCHING www.bluzee.xyz / CANCELLING WIX
+This is a media-integration update for the Pages preview, not the final
+production cutover. Keep Wix active until the remaining launch recording
+and retained legacy pages/links have been migrated. Legacy dependencies
+include careers, blog posts, SAP/ZATCA/industry pages and legal policies.
+The preview still has noindex/robots restrictions and a mailto enquiry
+workflow. Production indexing, real form delivery, redirects and the R2
+production media hostname remain separate launch tasks. Preserve the domain
+email MX/TXT records throughout that later cutover. This package makes no
+DNS, domain, email or account changes.
+
+R2 MEDIA ADDRESS
+Current preview base:
+https://pub-588399e8f62f4132b623941ee03fba65.r2.dev
+Keep the exact folders Images and Videos and the supplied filenames.
+When a production media hostname is ready, update media_base_url in
+content-source/r2-media.json, then run python build.py and commit the
+regenerated dist as well. Editing JSON alone will not rebuild on Pages
+with exit 0. Videos remain in R2; do not commit MP4 originals to GitHub.
+
+ROLLBACK
+If needed, use GitHub Desktop History to select this specific media-update
+commit, right-click > Revert Changes in Commit, and push the revert. This
+preserves history and lets Pages deploy the previous website content.

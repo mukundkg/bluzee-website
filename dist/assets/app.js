@@ -32,8 +32,8 @@
     controls.forEach(c=>c.addEventListener('click',()=>{filter=c.dataset.filter;update();}));search?.addEventListener('input',update);update();
   });
   const dialog=$('.video-dialog'), video=dialog?$('video',dialog):null;let trigger=null;
-  $$('[data-video]').forEach(btn=>btn.addEventListener('click',()=>{trigger=btn;$('#video-title').textContent=btn.dataset.title;$('.original-source',dialog).href=btn.dataset.source;$('.direct-video',dialog).href=btn.dataset.video;$('.video-status',dialog).textContent='';video.src=btn.dataset.video;video.poster=$('img',btn)?.src||'';dialog.showModal();document.body.classList.add('modal-open');video.play().catch(()=>{$('.video-status',dialog).textContent='Press play to start the original recording.';});}));
-  video?.addEventListener('error',()=>{$('.video-status',dialog).textContent='The original recording could not load here. Open the original page or recording using the links below.';});
+  $$('[data-video]').forEach(btn=>btn.addEventListener('click',()=>{trigger=btn;$('#video-title').textContent=btn.dataset.title;$('.original-source',dialog).href=btn.dataset.source;$('.original-source',dialog).textContent=btn.dataset.sourceLabel||'View original page ↗';$('.direct-video',dialog).href=btn.dataset.video;$('.video-status',dialog).textContent='';video.src=btn.dataset.video;video.poster=$('img',btn)?.src||'';dialog.showModal();document.body.classList.add('modal-open');video.play().catch(()=>{$('.video-status',dialog).textContent='Press play to start the original recording.';});}));
+  video?.addEventListener('error',()=>{$('.video-status',dialog).textContent='This recording could not load. Try opening the recording directly using the link below.';});
   $('.dialog-close')?.addEventListener('click',()=>dialog.close());
   dialog?.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});
   dialog?.addEventListener('close',()=>{video.pause();video.removeAttribute('src');video.load();document.body.classList.remove('modal-open');trigger?.focus();});

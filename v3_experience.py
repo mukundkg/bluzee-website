@@ -2,6 +2,7 @@
 from pathlib import Path
 from html import escape as E
 import json,re
+from r2_media import CONFIG as R2_CONFIG, media_url
 ROOT=Path(__file__).parent
 
 def install(ns):
@@ -48,6 +49,7 @@ def install(ns):
  ns['footer']=footer
  oldproof=ns['proof_section']
  def proof_section(ids,title='Experience. In their own words.',students=False):
+  if students and 'adheena' not in ids: ids=list(ids)+['adheena']
   out=oldproof(ids,title,students)
   return out.replace('Explore Stories &amp; Sessions','Explore Testimonials' if students else 'Explore Events').replace('Explore Stories & Sessions','Explore Testimonials' if students else 'Explore Events').replace(u('stories/index.html'),u('testimonials/index.html' if students else 'events/index.html'))
  ns['proof_section']=proof_section
@@ -56,21 +58,23 @@ def install(ns):
   return json.loads(f.read_text()) if f.exists() else {'posts':[],'partners':[]}
  def events():
   cards=''
-  for key in ['erp-hub-launch','iim-kozhikode-session','volvo-session','iit-madras-session','nit-calicut-session','mindfulness-session','erp-hub-overview']:
+  for key in ['erp-hub-launch','iim-kozhikode-session','volvo-session','iit-madras-session','nit-calicut-session','mindfulness-session','erp-hub-overview','barry-interview']:
    card=ns['proof_card'](key)
-   cats='Launch Academy' if key=='erp-hub-launch' else 'Academy' if key=='erp-hub-overview' else 'Leadership IIM' if key=='mindfulness-session' else 'DYPC'+(' IIM' if 'iim' in key else '')
+   cats='Launch Academy' if key=='erp-hub-launch' else 'Academy' if key=='erp-hub-overview' else 'Leadership IIM' if key=='mindfulness-session' else 'Leadership' if key=='barry-interview' else 'DYPC'+(' IIM' if 'iim' in key else '')
    card=re.sub(r'data-category="[^"]+"',f'data-category="{cats}"',card)
    summary=additions().get('event_summaries',{}).get(key,'')
    card=card.replace('</h3>',f'</h3><p class="event-card-summary">{E(summary)}</p>',1)
    cards+=card
   posts=''
   for p in additions().get('posts',[]):
-   media=''.join(f'<a href="{E(i["original_url"])}" target="_blank" rel="noopener"><img src="{u(i["asset"])}" alt="{E(i["alt"])}" loading="lazy"></a>' for i in p.get('images',[]))
+   media=''.join(f'<a href="{u(i["asset"])}" target="_blank" rel="noopener"><img src="{u(i["asset"])}" alt="{E(i["alt"])}" loading="lazy"></a>' for i in p.get('images',[]))
    posts+=f'<article class="event-journal-card reveal"><span>{E(p["date"])}</span><h3>{E(p["title"])}</h3><p>{E(p["summary"])}</p><div class="news-images">{media}</div>{link("Read the original story",p["url"],'target="_blank" rel="noopener"')}</article>'
   galleries=''
   for g in sorted(additions().get('galleries',[]),key=lambda g:g['id']):
    media=''.join(f'<a href="{E(i["original_url"])}" target="_blank" rel="noopener" aria-label="Open {E(i["alt"])}"><img src="{u(i["asset"])}" alt="{E(i["alt"])}" loading="lazy" width="700" height="467"></a>' for i in g['images'])
-   galleries+=f'<div class="event-gallery-section"><h3>{E(g["title"])}</h3><p class="event-gallery-caption">{E(g["caption"])}</p><div class="event-gallery">{media}</div></div>'
+   extras=R2_CONFIG['extra_gallery_photos'].get(g['id'],[])
+   extra_links='<div class="gallery-original-links">'+''.join(link('Additional photograph ↗',media_url(key),'target="_blank" rel="noopener"') for key in extras)+'</div>' if extras else ''
+   galleries+=f'<div class="event-gallery-section"><h3>{E(g["title"])}</h3><p class="event-gallery-caption">{E(g["caption"])}</p><div class="event-gallery">{media}</div>{extra_links}</div>'
   return f'''<section class="standard-hero archive-hero"><div class="wrap"><p class="eyebrow">BLUZEE / EVENTS</p><h1>Ideas in the room.<br><span class="accent">Impact beyond it.</span></h1><p class="lede">Revisit Bluzee’s launch moments, Design Your Professional Character™ workshops, leadership conversations and Academy sessions.</p><div class="actions">{button('Explore the recordings','#event-recordings')}{button('Hear participant feedback',u('testimonials/index.html'),True)}</div><div class="archive-orbits" aria-hidden="true"><i></i><i></i><i></i></div></div></section><section class="section-sm" id="event-recordings"><div class="wrap" data-filter-list><div class="section-head"><div><p class="eyebrow">ORIGINAL RECORDINGS</p><h2>Watch. Reflect.<br>Take an idea forward.</h2></div><p class="lede">Explore our workshops, launch moments and leadership conversations.</p></div>{ns['filters'](['All','Launch','DYPC','IIM','Leadership','Academy'],'Events')}<div class="proof-grid">{cards}</div><p class="empty-state">No events match. Try another category or clear your search.</p><p class="archive-note">The launch recording is the Bluzee ERP Experience Hub™ launch. The ERP Hub introduction is retained as programme content. The mindfulness session took place in Dubai in 2023, with Professor Debashis Chatterjee, IIM Kozhikode Director at the time.</p></div></section><section class="section"><div class="wrap"><p class="eyebrow">EVENT GALLERIES</p><h2>Moments from the room.</h2>{galleries}</div></section><section class="section light"><div class="wrap"><div class="section-head"><div><p class="eyebrow">EVENT JOURNAL</p><h2>Milestones worth revisiting.</h2></div>{link('All original news & events','https://www.bluzee.xyz/blog','target="_blank" rel="noopener"')}</div><div class="event-journal-grid">{posts}</div><div class="source-gallery">{link('Original workshop gallery','https://www.bluzee.xyz/workshop','target="_blank" rel="noopener"')}{link('Original Experience Hub gallery','https://www.bluzee.xyz/experiencehub','target="_blank" rel="noopener"')}</div></div></section>{ns['cta']()}'''
  ns['events']=events
  def testimonials():

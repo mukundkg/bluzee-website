@@ -1,0 +1,125 @@
+{
+  "media_base_url": "https://pub-588399e8f62f4132b623941ee03fba65.r2.dev",
+  "environment": "preview",
+  "videos": {
+    "volvo-session": "Videos/Volvo DYPC.mp4",
+    "iit-madras-session": "Videos/IITMadrasExport.mp4",
+    "iim-kozhikode-session": "Videos/🎓 IIM Kozhikode at its Best - Building Value Creators with Mukundakumar K G (Bluzee)Bluzee had.mp4",
+    "nit-calicut-session": "Videos/🎓 NIT Calicut at its Best - Building Value Creators with Mukundakumar K G (Bluzee)On 8th Jan 20.mp4",
+    "mindfulness-session": "Videos/Mindful Leadership Video.mp4",
+    "erp-hub-overview": "Videos/Start your career with Bluzee ERP Experience Hub in Cochin. Apply now www.bluzee.xyz_experiencehub - Mukundakumar K G (1080p, h264)(1).mp4",
+    "manas-aravind": "Videos/Manas_Export_Testimonial.mp4",
+    "muhammed-ansil-pa": "Videos/Ansl LatCvtd.mp4",
+    "anirudh-vk": "Videos/Anirudh TestimonialCvtd.mp4",
+    "vaishnav-pm": "Videos/Vaishnav Testimonial LatCvtd.mp4",
+    "adheena": "Videos/Adheena Testimonial.mp4",
+    "barry-interview": "Videos/Barry Inteview with Adri.mp4"
+  },
+  "gallery": {
+    "assets/events/mindfulness-gallery-01.webp": {
+      "r2_key": null,
+      "original_url": "https://static.wixstatic.com/media/d717fc_dae873b502754c14880f6f42e0ad7ef9~mv2.jpg",
+      "match": "use existing locally hosted gallery copy; original missing from supplied file list"
+    },
+    "assets/events/mindfulness-gallery-02.webp": {
+      "r2_key": "Images/Mindfulness_Photo 4.jpg",
+      "original_url": "https://static.wixstatic.com/media/d717fc_ad91b40f18174c79925ed603413b3b9a~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/mindfulness-gallery-03.webp": {
+      "r2_key": "Images/Mindfulness_Photo 6.jpg",
+      "original_url": "https://static.wixstatic.com/media/d717fc_2a523b51515b4e1faf1967adde172570~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/mindfulness-gallery-04.webp": {
+      "r2_key": "Images/Mindfulness_Photo1.jpg",
+      "original_url": "https://static.wixstatic.com/media/d717fc_91e38191c9e140be844f368afcba6c8f~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/mindfulness-gallery-05.webp": {
+      "r2_key": "Images/Mindfulness_Photo 7.jpg",
+      "original_url": "https://static.wixstatic.com/media/d717fc_d41e7b9dfd6c4aef8badd12288eb5701~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/mindfulness-gallery-06.webp": {
+      "r2_key": "Images/Mindfulness_Photo 5.jpg",
+      "original_url": "https://static.wixstatic.com/media/d717fc_0e24d14c51694d73a475ab7e9c3691e3~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/mindfulness-gallery-07.webp": {
+      "r2_key": "Images/Mindfulness_Photo 3.jpg",
+      "original_url": "https://static.wixstatic.com/media/d717fc_a0ac50694d0a4df8969e1183f24891e2~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/erp-hub-launch-gallery-01.webp": {
+      "r2_key": "Images/Bluzee Launch_Photo 6.jpg",
+      "original_url": "https://static.wixstatic.com/media/0ae95f_dec60acf1c844b37b275f39e12eac86d~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/erp-hub-launch-gallery-02.webp": {
+      "r2_key": "Images/Bluzee Launch_Photo 3.jpg",
+      "original_url": "https://static.wixstatic.com/media/0ae95f_c7b8c6f909fd4c679796f7cbe955f941~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/erp-hub-launch-gallery-03.webp": {
+      "r2_key": "Images/Bluzee Launch_Photo 4.jpg",
+      "original_url": "https://static.wixstatic.com/media/0ae95f_da14aaab218d4f70adf106b8e2c219c8~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/erp-hub-launch-gallery-04.webp": {
+      "r2_key": null,
+      "original_url": "https://static.wixstatic.com/media/0ae95f_234f5be734ab4e37b4aa7d52d3e44839~mv2.jpg",
+      "match": "use existing locally hosted gallery copy; original missing from supplied file list"
+    },
+    "assets/events/erp-hub-launch-gallery-05.webp": {
+      "r2_key": null,
+      "original_url": "https://static.wixstatic.com/media/0ae95f_91e1548b9c18444f8843b18ec4246a15~mv2.jpg",
+      "match": "use existing locally hosted gallery copy; original missing from supplied file list"
+    },
+    "assets/events/erp-hub-launch-gallery-06.webp": {
+      "r2_key": "Images/Bluzee Launch_Photo 2.jpg",
+      "original_url": "https://static.wixstatic.com/media/0ae95f_f97afcf996e8413889dee1ab7b7bf222~mv2.jpg",
+      "match": "unique original-file byte size and user-labelled event"
+    },
+    "assets/events/erp-hub-launch-gallery-07.webp": {
+      "r2_key": null,
+      "original_url": "https://static.wixstatic.com/media/0ae95f_3afccfa03128432595c93c2477eafcb7~mv2.jpg",
+      "match": "use existing locally hosted gallery copy; original missing from supplied file list"
+    }
+  },
+  "portraits": {
+    "mukundakumar-kg.jpg": "Images/sadad_edited.jpg",
+    "tawfiq-al-swailem.jpg": "Images/Dr Tawfiq_Final_edited.jpg",
+    "ajun-franklin.jpg": "Images/Ajun Franklin_Final_edited.jpg",
+    "richard-kuhlmann.png": "Images/Richard Kuhlmann_Non Executive Director.png",
+    "mari-molnar.png": "Images/Mari Molnár_Non Executive Director.png",
+    "barry-fourie.png": "Images/Barry_Leadership.png",
+    "adlan.jpg": "Images/Adlan.jpg"
+  },
+  "logos": {
+    "assets/partners/partner-rset.jpeg": "Images/rajagiri_school_of_engineering_and_technology_logo.jpeg",
+    "assets/partners/partner-sequantix.png": "Images/Sequantix_Logo.png",
+    "assets/partners/partner-cloudvalley.jpg": "Images/Cloudvalley.jpg",
+    "assets/partners/partner-dsti.png": "Images/DSTI  Logo.png",
+    "assets/odoo-learning-partner.png": "Images/Odoo Learning Partner Logo.png"
+  },
+  "appreciation": "Images/Volvo Testimonial.png",
+  "extra_gallery_photos": {
+    "erp-hub-launch": [
+      "Images/Bluzee Launch_Photo 5.jpg"
+    ],
+    "mindfulness-session": [
+      "Images/Mindfulness_Photo 2.jpg"
+    ]
+  },
+  "pending_video_ids": [
+    "erp-hub-launch"
+  ],
+  "verification": {
+    "user_browser_confirmed": [
+      "Images/Spago.jpg",
+      "Videos/IITMadrasExport.mp4"
+    ],
+    "automated_remote_media": "blocked by Cloudflare error 1010; no playback verification claimed"
+  }
+}

@@ -1,0 +1,15 @@
+/* Native player controls and lightweight participant artwork. */
+.voice-story-visual{width:100%;padding:0;text-align:left;color:inherit;font:inherit;cursor:pointer}
+.voice-story-visual>img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+.voice-story-visual:focus-visible,.proof-visual:focus-visible{outline:3px solid #7ae7ff;outline-offset:5px}
+.participant-placeholder{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;width:100%;height:100%;min-height:220px;aspect-ratio:16/9;background:radial-gradient(circle at 25% 20%,#1f546d 0,transparent 50%),linear-gradient(135deg,#081b31,#0d2946 65%,#521d2e);color:#effaff;padding:32px 24px 64px}
+.participant-initial{font:500 clamp(46px,7vw,90px)/1 var(--display);color:#9cecf7;border:1px solid #7396b4;border-radius:50%;width:1.5em;height:1.5em;display:grid;place-items:center}
+.participant-name{font:500 24px/1.2 var(--display)}
+.participant-caption{font-size:9px;letter-spacing:.15em;color:#c1d8e8}
+.voice-story-visual:has(.participant-placeholder) .voice-play{right:24px;left:auto;top:auto;bottom:22px;transform:none}
+.voice-story-visual:has(.participant-placeholder):hover .voice-play{transform:scale(1.05)}
+.proof-card.student .participant-placeholder{padding-bottom:75px}
+.gallery-original-links{display:flex;gap:12px;flex-wrap:wrap;padding:12px 0 24px}
+.gallery-original-links a{display:inline-flex;padding:11px 15px;border:1px solid #47637b;border-radius:6px;color:#b1eff8;font-size:13px}
+@media(max-width:600px){.participant-placeholder{min-height:220px}.participant-name{font-size:21px}}
+@media(prefers-reduced-motion:reduce){.voice-story-visual,.voice-story-visual *{transition:none!important;animation:none!important}}
