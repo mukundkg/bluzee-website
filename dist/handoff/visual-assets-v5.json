@@ -1,0 +1,20 @@
+{
+  "version": 5,
+  "date": "2026-10-24",
+  "method": "Built-in image generation",
+  "assets": [
+    {
+      "name": "Events cinematic stage",
+      "full": "dist/assets/events-stage-v5.webp",
+      "mobile": "dist/assets/events-stage-v5-small.webp",
+      "prompt": "Use case: stylized-concept. Asset type: immersive backdrop for Bluzee Events website, 16:9 landscape. Create a spectacular empty sculptural performance space suggesting exchange of ideas and shared momentum. Tall sweeping translucent sapphire glass fins rise from an understated midnight navy stage, like elegant abstract sound ribbons moving toward one luminous point. Delicate cyan edge lighting, a deep burgundy reflected accent, three soft architectural shafts of light from above, realistic fine material textures, atmospheric depth, premium cinematic CGI and architectural photography. Main forms on the right two thirds, left third almost black navy negative space for website headlines. No podium, no microphone, no people, no audience, no real event or company portrayed, no text or logos, no globe, no orbital rings, no watermark. Rich dark blue #030914 foundation, electric blue, cyan, red accent. Visually arresting but calm enough behind editorial typography. No excessive particles or chaotic details."
+    },
+    {
+      "name": "Testimonials resonance",
+      "full": "dist/assets/testimonials-resonance-v5.webp",
+      "mobile": "dist/assets/testimonials-resonance-v5-small.webp",
+      "prompt": "Use case: stylized-concept. Asset type: immersive backdrop for Bluzee Testimonials website, 16:9 landscape. A breathtaking minimalist abstract sculpture expressing human voices and resonance: two refined massive curved sapphire glass strokes with tapered tails loosely suggesting an open quotation mark, surrounded by three broad soft translucent flowing acoustic ribbons. The sculptural strokes are not literal written text. Camera close with dramatic diagonal perspective, right-side composition, blue-black reflective studio floor, deep navy negative space across left third. Satin blue metallic outer surfaces and luminous cyan inner glass; one elegant burgundy-red band along the rear ribbon. Light passes through glass, beautiful delicate caustics, restrained volumetric illumination. High-end physically realistic editorial CGI, rich layered depth, premium technology brand campaign. No people, no names, no testimonial words, no logos, no watermark, no spheres, no orbital rings, no microphones, no stars or ratings, no fake endorsement marks. Broad bold confident shapes rather than tiny busy objects."
+    }
+  ],
+  "authentic_media": "All photographs of people, event recordings, participant posters, written feedback and partner logos are retained original sources."
+}

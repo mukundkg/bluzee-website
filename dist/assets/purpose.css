@@ -1,0 +1,79 @@
+/* Vision & Mission — cinematic editorial chapters. Scoped to About. */
+.purpose-cinematic{background:#030914;overflow:hidden;position:relative;padding:100px 0 0}
+.purpose-opening{display:flex;justify-content:space-between;align-items:flex-end;gap:50px;padding-bottom:85px}
+.purpose-opening h2{font-size:clamp(40px,4.4vw,66px);line-height:1.1;letter-spacing:-.05em}
+.purpose-opening h2>span{color:#8da9c7}
+.purpose-opening .eyebrow{font-size:10px;color:#9db6d2}
+.purpose-opening .eyebrow:before{background:#ef3340}
+.purpose-chapters{min-width:230px;display:grid}
+.purpose-chapters a{display:flex;gap:22px;align-items:center;padding:16px 0;border-bottom:1px solid #304259;font-size:12px;transition:color .25s}
+.purpose-chapters a>span{color:#8da9c7;font-size:10px}.purpose-chapters i{margin-left:auto;font-style:normal;color:#7ae7ff;font-size:20px}
+.purpose-chapters a:hover{color:#7ae7ff}
+.purpose-chapter{position:relative;isolation:isolate;scroll-margin-top:12px}
+.purpose-chapter:before{content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(ellipse at 90% 45%,#123b5c3d,transparent 66%)}
+.purpose-chapter-grid{display:grid;grid-template-columns:1.05fr 1fr;gap:68px;align-items:center}
+.purpose-editorial{padding:20px 0 25px;min-width:0}
+.purpose-kicker{display:flex;gap:18px;align-items:center;font:700 11px/1.5 var(--body);letter-spacing:.18em;color:#f3f7ff;margin-bottom:28px}
+.purpose-kicker>span{color:#7ae7ff;letter-spacing:.07em;font-weight:500}
+.purpose-editorial h3{font-size:clamp(44px,4.65vw,68px);line-height:1.07;letter-spacing:-.055em;margin-bottom:35px}
+.purpose-editorial h3>span{color:#7ae7ff}
+.purpose-statement{max-width:63ch}
+.purpose-statement p{font-size:15px;line-height:1.95;color:#c2d0e0;text-wrap:pretty}
+.purpose-statement p+p{margin-top:22px}
+.purpose-next{display:inline-flex;align-items:center;gap:25px;border-bottom:1px solid #486078;padding:10px 0;font-size:11px;margin-top:24px;color:#edf6ff}
+.purpose-next span{font-size:23px;color:#7ae7ff;transition:transform .3s}.purpose-next:hover span{transform:translateY(4px)}
+.purpose-art{margin:0;min-width:0;position:relative}
+.purpose-art-window{height:630px;position:relative;overflow:hidden;background:#061226;border-radius:160px 4px 4px 4px;isolation:isolate;box-shadow:0 35px 90px #0004;border:1px solid #39608050}
+.purpose-art-drift{position:absolute;inset:-16px;transform:translate3d(var(--purpose-x,0px),var(--purpose-y,0px),0);transition:transform .9s cubic-bezier(.22,.61,.36,1)}
+.purpose-art picture{display:block;width:100%;height:100%;animation:purpose-breathe 24s ease-in-out infinite alternate}
+.purpose-art img{height:100%;width:100%;max-width:none;object-fit:cover;object-position:64% center}
+.purpose-art-window:after{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(0deg,#0309148c,transparent 24%,transparent 78%,#03091422)}
+.purpose-art-light{position:absolute;inset:0;z-index:1;pointer-events:none;background:linear-gradient(115deg,transparent 35%,#a0ddff16 49%,transparent 62%);background-size:240% 100%;animation:purpose-light 14s ease-in-out infinite}
+.purpose-art-number{position:absolute;bottom:18px;right:24px;z-index:2;font:500 105px/.95 var(--display);letter-spacing:-.09em;color:#d9f6ff0a;-webkit-text-stroke:1px #d4efff80;pointer-events:none}
+.purpose-art figcaption{display:flex;gap:20px;justify-content:space-between;padding:19px 2px 0;font-size:8px;line-height:1.7;letter-spacing:.12em;color:#b4c9df}
+.purpose-art figcaption span:last-child{font-size:7px;color:#7592b0;white-space:nowrap}
+.purpose-bridge{display:flex;align-items:center;gap:28px;padding-top:70px;padding-bottom:70px;color:#8ba5c2}
+.purpose-bridge span{height:1px;background:linear-gradient(90deg,#24354a,#6b2540);flex:1}.purpose-bridge span:last-child{transform:rotate(180deg)}
+.purpose-bridge b{font-size:9px;letter-spacing:.24em;font-weight:500;white-space:nowrap}
+.purpose-mission:before{background:radial-gradient(ellipse at 10% 55%,#48152b55,transparent 58%)}
+.purpose-mission .purpose-chapter-grid{grid-template-columns:1fr 1.05fr}
+.purpose-mission .purpose-editorial{grid-column:2;grid-row:1}
+.purpose-mission .purpose-art{grid-column:1;grid-row:1}
+.purpose-mission .purpose-art-window{border-radius:4px 160px 4px 4px;border-color:#6e34495c;height:650px}
+.purpose-mission .purpose-art img{object-position:50% center}
+.purpose-mission .purpose-kicker>span{color:#ff5967}
+.purpose-mission .purpose-editorial h3{font-size:clamp(42px,4.2vw,60px)}
+.purpose-mission .purpose-editorial h3>span{color:#ff5967}
+.purpose-mission .purpose-statement p{font-size:15px;line-height:1.9}
+.purpose-principles{margin-top:34px}
+.purpose-principles-label{font-size:8px;line-height:1.7;letter-spacing:.15em;color:#b7c4d5;margin-bottom:15px}
+.purpose-principle-tabs{display:flex;flex-wrap:wrap;gap:0 18px;border-bottom:1px solid #3a3144}
+.purpose-principle-tabs button{padding:13px 0 12px;border:0;border-bottom:2px solid transparent;background:none;display:flex;gap:7px;align-items:center;font-size:11px;color:#9cafc5;transition:color .25s,border-color .25s}
+.purpose-principle-tabs button>span{font-size:7px;color:#9b7b91}.purpose-principle-tabs button>i{display:none;font-style:normal}
+.purpose-principle-tabs button:hover{color:#fff}.purpose-principle-tabs button[aria-selected=true]{color:#fff;border-bottom-color:#ef3340}.purpose-principle-tabs button[aria-selected=true]>span{color:#ff5967}
+.purpose-principle-panels{min-height:95px;padding-top:23px}
+.purpose-principle-panels [role=tabpanel]{display:flex;align-items:flex-start;gap:20px;animation:principle-enter .5s var(--ease) both}
+.purpose-principle-panels [role=tabpanel][hidden]{display:none}
+.purpose-principle-panels p{font:500 22px/1.4 var(--display);letter-spacing:-.03em;color:#edf3fc;max-width:24ch}
+.principle-counter{font:10px/1.7 var(--body);letter-spacing:.05em;color:#ff5967;white-space:nowrap;padding-top:7px}
+.purpose-closing{display:flex;justify-content:space-between;align-items:center;gap:30px;padding-top:60px;padding-bottom:70px;margin-top:65px;border-top:1px solid #24354a}
+.purpose-closing p{font:500 28px/1.3 var(--display);letter-spacing:-.035em;color:#eaf2ff}.purpose-closing p>span{color:#94b0cc}.purpose-closing .text-link{font-size:12px}
+/* Entrances enhance imagery only; official statements are always visible. */
+.purpose-cinematic.purpose-ready .purpose-art{opacity:.35;transform:translateY(24px);transition:opacity 1.1s var(--ease),transform 1.3s var(--ease)}
+.purpose-cinematic.purpose-ready .purpose-art.in-view{opacity:1;transform:none}
+.purpose-art.offstage *,.tab-hidden .purpose-cinematic *{animation-play-state:paused!important}
+@keyframes purpose-breathe{from{transform:scale(1.015)}to{transform:scale(1.07)}}
+@keyframes purpose-light{0%,30%{background-position:100% 0;opacity:0}50%{opacity:1}75%,100%{background-position:0 0;opacity:0}}
+@keyframes principle-enter{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media(min-width:1450px){.purpose-statement p{font-size:15px}.purpose-art-window{height:660px}}
+@media(max-width:1100px){.purpose-chapter-grid,.purpose-mission .purpose-chapter-grid{gap:38px;grid-template-columns:1fr 1fr}.purpose-editorial h3{font-size:52px}.purpose-mission .purpose-editorial h3{font-size:45px}.purpose-art-window{height:670px}.purpose-mission .purpose-art-window{height:620px}.purpose-statement p{font-size:13px}.purpose-mission .purpose-statement p{font-size:14px}.purpose-art figcaption{letter-spacing:.05em;font-size:7px}.purpose-art figcaption span:last-child{display:none}.purpose-principle-tabs{gap:0 14px}.purpose-opening{gap:35px}}
+@media(max-width:800px){.purpose-cinematic{padding-top:70px}.purpose-opening{display:block;padding-bottom:45px}.purpose-opening h2{font-size:48px}.purpose-chapters{display:flex;gap:25px;margin-top:32px;min-width:0;max-width:440px}.purpose-chapters a{flex:1;gap:12px}.purpose-chapter-grid,.purpose-mission .purpose-chapter-grid{display:flex;flex-direction:column;gap:32px;align-items:stretch}.purpose-editorial{padding:0}.purpose-editorial h3,.purpose-mission .purpose-editorial h3{font-size:56px;margin-bottom:28px}.purpose-statement{max-width:none}.purpose-statement p{font-size:14px;line-height:1.95}.purpose-art-window,.purpose-mission .purpose-art-window{height:480px;border-radius:90px 4px 4px 4px}.purpose-mission .purpose-art-window{border-radius:4px 90px 4px 4px}.purpose-art img{object-position:50% 60%}.purpose-art figcaption span:last-child{display:block}.purpose-art figcaption{font-size:8px}.purpose-bridge{padding-top:45px;padding-bottom:45px}.purpose-principles{margin-top:27px}.purpose-principle-tabs{gap:0 23px}.purpose-principle-tabs button{font-size:12px;min-height:46px}.purpose-principle-panels{min-height:80px}.purpose-closing{padding-block:40px;margin-top:45px}.purpose-closing p{font-size:24px}.purpose-closing .text-link{font-size:11px}.purpose-cinematic.purpose-ready .purpose-art{transform:translateY(16px)}}
+@media(max-width:560px){.purpose-opening h2{font-size:38px}.purpose-opening{padding-bottom:40px}.purpose-opening .eyebrow{font-size:9px;margin-bottom:20px}.purpose-chapters a{font-size:11px;padding:12px 0}.purpose-chapters{gap:20px;margin-top:24px}.purpose-chapters i{font-size:17px}.purpose-editorial h3,.purpose-mission .purpose-editorial h3{font-size:42px;line-height:1.1}.purpose-kicker{font-size:10px;margin-bottom:22px}.purpose-statement p,.purpose-mission .purpose-statement p{font-size:14px;line-height:1.9}.purpose-statement p+p{margin-top:20px}.purpose-next{font-size:11px;margin-top:20px}.purpose-art-window,.purpose-mission .purpose-art-window{height:380px;border-radius:80px 3px 3px 3px}.purpose-mission .purpose-art-window{border-radius:3px 80px 3px 3px}.purpose-art-number{font-size:85px;right:20px;bottom:17px}.purpose-art figcaption{font-size:7px;letter-spacing:.05em;padding-top:14px}.purpose-art figcaption span:last-child{display:none}.purpose-bridge{gap:16px;padding-block:40px}.purpose-bridge b{font-size:7px;letter-spacing:.17em}.purpose-principle-tabs{gap:0 18px}.purpose-principle-tabs button{font-size:11px}.purpose-principle-panels p{font-size:22px}.purpose-principle-panels{min-height:98px}.purpose-closing{display:block;padding-block:36px}.purpose-closing p{font-size:26px}.purpose-closing .text-link{margin-top:24px}.purpose-cinematic{padding-top:60px}}
+@media(max-width:360px){.purpose-opening h2{font-size:33px}.purpose-editorial h3,.purpose-mission .purpose-editorial h3{font-size:36px}.purpose-art-window,.purpose-mission .purpose-art-window{height:330px}.purpose-statement p,.purpose-mission .purpose-statement p{font-size:13px}.purpose-chapters{gap:15px}}
+@media(hover:none),(pointer:coarse){.purpose-art-drift{transform:none!important}}
+@media(prefers-reduced-motion:reduce){.purpose-cinematic.purpose-ready .purpose-art{opacity:1;transform:none}.purpose-art-drift,.purpose-art picture{transform:none!important}.purpose-art-light{display:none}}
+.motion-paused .purpose-cinematic.purpose-ready .purpose-art{opacity:1;transform:none}.motion-paused .purpose-art-drift,.motion-paused .purpose-art picture{transform:none!important}.motion-paused .purpose-art-light{display:none}
+
+/* Keep the existing About introduction within narrow viewports. */
+.about-hero>*{min-width:0}
+@media(max-width:560px){.about-hero h1{font-size:clamp(32px,8.7vw,48px)}}

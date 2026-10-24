@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-24",
+  "pages": 20,
+  "offering_pages": 12,
+  "matching_brochures": 9,
+  "local_link_and_anchor_errors": 0,
+  "original_recordings_preserved": 7,
+  "student_routes_preserved": 4,
+  "original_feedback_images": 1,
+  "browser_checks": [
+    "Desktop hero, product panels and navigation",
+    "390px homepage and AI Hub; 320px Dimaq layout",
+    "No horizontal page overflow in checked narrow layouts",
+    "Mobile expanded navigation no longer overlaps Contact Us",
+    "Dimaq tab selection and content switching",
+    "ERP category filter: 4 results; product filter: 5 results",
+    "Empty search state",
+    "Stories IIM filter: 2 results; students: 4; Manas search: 1",
+    "Original IIM recording readyState=4 and playback time advanced",
+    "Enquiry offering preselected; draft built; no email sent",
+    "Support accordion expansion",
+    "Motion pause toggles on document and body",
+    "Nine PDFs hash-match source files; all pages have selectable text",
+    "Dimaq conversion: 13 pages rendered and inspected",
+    "Revision: homepage 1348px content width without overflow; logo U maroon and original geometry visible",
+    "Revision: About leadership and Contact at 375px/305px content widths without overflow",
+    "Revision: all seven original leadership images loaded",
+    "Revision: 24 academic institutions displayed, including SCMS Cochin",
+    "Revision: original vision and mission visible and source matched",
+    "Revision: older Dimaq preselection URL matches trademarked option",
+    "Revision: AI draft addresses ai@bluzee.xyz and copies inbox@bluzee.xyz; ERP Support draft uses general inbox; no email sent",
+    "Revision: hero beam-travel animation running and visible motion control pauses animation",
+    "Revision: mobile menu opens",
+    "Revision: 26-page ERP guide opens in browser PDF viewer; source file hash matches original",
+    "Revision: reduced-motion and offscreen/hidden-tab pausing reviewed in source",
+    "Dynamic revision: desktop hero, ERP, guide and Academy layouts visually inspected",
+    "Hero core-breathe animation running; 14 particles present",
+    "Guide cursor interaction changed depth rotation and spotlight coordinates",
+    "390px/320px review frames: 375px/305px content widths; homepage and Academy without horizontal overflow",
+    "Mobile menu includes Events and Testimonials; route navigation works",
+    "Events filters: All 7; DYPC 4; Launch 1",
+    "Original launch video readyState 4, no media error and playback advanced beyond 32 seconds",
+    "Six partner logos loaded in viewport",
+    "Testimonials displays four original participant video routes",
+    "Guide pause resets perspective transform to none and guide-node animation to none",
+    "Mobile Events and Testimonials navigate correctly with no horizontal overflow",
+    "Logo red verified in computed brand mask gradient: RGB 239,51,64"
+  ],
+  "limits": [
+    "Browser review is not a complete WCAG certification or every-device test.",
+    "Original IIM recording playback verified; all seven MP4 URLs were checked, but recordings were not fully watched or transcribed.",
+    "Four student videos route to original Wix players.",
+    "Wix CMS, Wix Forms, domain, redirects, production SEO and launch require Wix implementation.",
+    "The named October Dimaq PDF was unavailable; current Dimaq PPT converted to PDF.",
+    "QSRPro, Tradesphere and Nexus have no individual supplied PDFs.",
+    "New six-page supplied workshop PDF is image-only and is preserved unchanged.",
+    "Download-event automation timed out; the resource URL was instead opened and visually verified in the browser PDF viewer.",
+    "Stronger motion was visually reviewed and paused; reduced-motion preference was checked in source, not with device emulation.",
+    "Separate corporate Bluzee launch recording not discovered; verified launch is ERP Experience Hub inauguration.",
+    "Four participant feedback videos remain links to original Wix gallery; native player migration is specified for Wix.",
+    "Motion inspected visually and via pause controls; not a full cross-device performance or accessibility certification."
+  ],
+  "revision": "Dynamic homepage, Events and Testimonials \u2014 24 October 2026",
+  "total_pdf_resources": 11,
+  "brochure_files": 10,
+  "pdf_files": [
+    {
+      "path": "brochures/Bluzee_AI_Experience_Hub.pdf",
+      "pages": 9,
+      "sha256": "d9cfe0fb8fd948edaf394187f09157f747481abc3dec43fd25ffbbc835740856"
+    },
+    {
+      "path": "brochures/Bluzee_DYPC_Brochure.pdf",
+      "pages": 6,
+      "sha256": "39ce170728d403e13a5f9daeeb935b59dcd9ba1819f5116462d4f459ade64016"
+    },
+    {
+      "path": "brochures/Bluzee_DealTailor_Private_AI_Lead_Conversion_Agent.pdf",
+      "pages": 12,
+      "sha256": "0e666705f7c32a359f0de78b8b02cd2f391c954741742f8e85b04d1d16655131"
+    },
+    {
+      "path": "brochures/Bluzee_Design_Your_Professional_Character.pdf",
+      "pages": 4,
+      "sha256": "2c3c90f4257fb515f8109ea75a3d68a5a5a47cc21fd09026bc1d53874f2c0bff"
+    },
+    {
+      "path": "brochures/Bluzee_Dimaq_Brochure.pdf",
+      "pages": 13,
+      "sha256": "bc3590d04f60ab4d60371e904e408c469f3327d93244a915c8ac741112293b14"
+    },
+    {
+      "path": "brochures/Bluzee_ERP_Experience_Hub.pdf",
+      "pages": 4,
+      "sha256": "130dd9f1c10c285d82e13c76999eb049dcfeedb02a681324af7f407d396c0755"
+    },
+    {
+      "path": "brochures/Bluzee_ERP_Support_Services.pdf",
+      "pages": 6,
+      "sha256": "3b8ec9e05f3a816f0192731c62238086e7dce9b1638d76a9e1c8d2f0d2eee0ac"
+    },
+    {
+      "path": "brochures/Bluzee_ERP_Talent_Outsourcing_Services.pdf",
+      "pages": 4,
+      "sha256": "e93282e4546f80ff0c1fbbcd60352e725379101230f05ab1011fdb1d189c2a1e"
+    },
+    {
+      "path": "brochures/Bluzee_Odoo_ERP_Consulting_Services.pdf",
+      "pages": 5,
+      "sha256": "6a534ac272ff5d9c9c523b8773cf7f4a9bb4b079712dd2d271efd469aa3110ab"
+    },
+    {
+      "path": "brochures/Bluzee_Odoo_ERP_Implementation_Services.pdf",
+      "pages": 5,
+      "sha256": "28156051b3fdf0e4ba5a82860f086f4661e163c003470ce39492254a6a0590ef"
+    },
+    {
+      "path": "resources/Bluzee_ERP_Implementation_Methodology_Guide_July_2024.pdf",
+      "pages": 26,
+      "sha256": "6db86a5f8f2426f7101ac43dbd45b811549c5ab86d9a0d647652e002c002b5ea"
+    }
+  ],
+  "revision_checks": {
+    "all_pages_brand_contacts_trademarks_license_and_guide": "pass",
+    "pages": 20,
+    "leadership_portraits": 7,
+    "academic_institutions": 24,
+    "corporate_workshop_entry": "Volvo Group \u00b7 India",
+    "source_workshop_pdf": "unchanged byte-for-byte",
+    "source_erp_guide": "unchanged SHA-256 match",
+    "logo_u": "#EF3340",
+    "new_illustrative_images": 4,
+    "event_recordings": 6,
+    "programme_introductions": 1,
+    "event_gallery_photographs": 14,
+    "archived_event_stories": 3,
+    "partner_logos": 6,
+    "testimonial_video_routes": 4,
+    "all_20_pages_brand_navigation_contacts_license_trademarks": "pass",
+    "original_7_playable_video_urls_preserved": "pass",
+    "event_gallery_plus_news_images": 18
+  },
+  "vision_mission_revision": {
+    "version": 4,
+    "date": "2026-10-24",
+    "source_statement_check": "All two Vision paragraphs and the Mission statement preserved verbatim.",
+    "visual_change": "Two original cinematic conceptual scenes; alternating editorial layouts; original ocean SVG and mission orbit removed from rendered HTML.",
+    "checks": [
+      "20 pages: local links and anchors valid",
+      "Desktop: 1348px content width, no horizontal overflow",
+      "390px frame: 375px content width and scroll width",
+      "320px frame: 305px content width and scroll width after correcting About hero sizing",
+      "Both optimized chapter images loaded",
+      "Principles: click selects correct panel; End selects fifth; Home returns first",
+      "Mobile Resourcefulness tab shows Optimize resources.",
+      "Motion pauses to animation:none/transform:none and resumes purpose-breathe",
+      "Offscreen/hidden-tab and reduced-motion safeguards reviewed in source",
+      "Three source paragraphs always visible; no automatic statement rotation",
+      "Packaging integrity: all assets nonempty; restored a previously empty support visual from its original source image."
+    ],
+    "limitations": [
+      "Reduced-motion media query reviewed in code; OS preference emulation unavailable",
+      "Checked responsive widths are not a full device matrix"
+    ],
+    "screenshots": [
+      "Bluzee_Vision_Concept_v4.jpg",
+      "Bluzee_Mission_Concept_v4.jpg"
+    ]
+  },
+  "events_testimonials_revision": {
+    "version": 5,
+    "date": "2026-10-24",
+    "preservation": {
+      "unique_original_recordings": 7,
+      "participant_video_routes": 4,
+      "partner_logos": 6,
+      "gallery_photographs": 14,
+      "event_journal_stories": 3,
+      "written_appreciation": "Original image and source links unchanged"
+    },
+    "checks": [
+      "20 pages: all local links and anchors valid",
+      "Desktop Events and Testimonials content width 1348px, no horizontal overflow",
+      "Events at 390px frame: client and scroll width both 375px",
+      "Testimonials at 320px frame: client and scroll width both 305px",
+      "Launch recording readyState=4, no error, playback advanced beyond 20 seconds",
+      "Events filters: All=7 and DYPC=4",
+      "Original source URLs preserved against previous revision",
+      "Four original participant posters and names retained; click opens original Wix gallery",
+      "All six partner images loaded",
+      "Hero photo movement pauses to animation:none and transform:none; resumes media-float",
+      "Testimonials decorative waveform running; no audio playback",
+      "Original appreciation and gallery layouts visually checked",
+      "Reduced-motion, offscreen and hidden-tab handling reviewed in source"
+    ],
+    "limitations": [
+      "Participant feedback videos use the original Wix gallery; direct MP4 endpoints remain unavailable",
+      "Reduced-motion media query was code-reviewed; OS media emulation unavailable",
+      "Responsive checks are not a full device matrix"
+    ],
+    "screenshots": [
+      "Bluzee_Events_Concept_v5.jpg",
+      "Bluzee_Testimonials_Concept_v5.jpg"
+    ]
+  },
+  "human_homepage_revision": {
+    "version": 6,
+    "date": "2026-10-24",
+    "checks": [
+      "New illustrative people-centred image integrated; previous particles, orbital rings and beams removed",
+      "Homepage title, copy, CTA destinations and both AI product links retained",
+      "Desktop headline opacity=1 and filter=none",
+      "Pause sets hero animation:none and transform:none; Resume restores human-camera with 30-second duration",
+      "390px frame: client and scroll widths both 375px",
+      "320px frame: client and scroll widths both 305px",
+      "Mobile crop visually checked: all three people visible and copy readable",
+      "All 20 pages: local links and anchors valid",
+      "Existing prepared proof images preserved byte-for-byte"
+    ],
+    "limitations": [
+      "Reduced-motion styles reviewed in code; OS media emulation unavailable",
+      "Image motion is a visual pan/zoom, not a live-action video"
+    ],
+    "screenshot": "Bluzee_Human_Homepage_v6.jpg"
+  }
+}

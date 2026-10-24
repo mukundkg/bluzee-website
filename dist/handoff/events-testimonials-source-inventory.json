@@ -1,0 +1,766 @@
+{
+  "audit_date": "2026-10-24",
+  "scope": "Current public Home, About, Workshop, Experience Hub and all ten sitemap-listed blog posts; compared with existing concept preservation inventory.",
+  "event_videos": [
+    {
+      "id": "erp-hub-launch",
+      "title": "Launch of Bluzee ERP Experience Hub™",
+      "proof_type": "event_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/"
+      ],
+      "speaker_or_attribution": "Event participants listed on source; not a single-speaker testimonial",
+      "event_date": "2025-05-22",
+      "description_summary": "Launch at Kochi Marriott Hotel. Source lists Dr. Tawfiq Al-Swailem, Balagopal Chandrasekhar and Barry Fourie; P. Rajeeve is described as sending blessings, not as attending. Retain adjacent launch photo gallery.",
+      "video_id": "0ae95f_e907a793ae53467b9dacb8c9428e076d",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_e907a793ae53467b9dacb8c9428e076d/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_e907a793ae53467b9dacb8c9428e076df000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/erp-hub-launch-poster.jpg",
+      "wix_component_ids": [
+        "comp-mb2ed6hi1"
+      ],
+      "proposed_destinations": [
+        "About Us",
+        "ERP Experience Hub page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes.",
+      "source_text": "Launch of Bluzee™ ERP Experience Hub\nThe Bluzee™ ERP Experience Hub was officially inaugurated on May 22, 2025, at the Kochi Marriott Hotel, marking a significant milestone in Bluzee™ IT Consultants’ journey toward empowering fresh talent in the ERP space.\nThe inauguration was held with the blessings of\nHon. Minister P. Rajeeve\n, Minister for Industries, Law & Coir, Government of Kerala, whose continued efforts to strengthen Kerala’s digital and industrial ecosystem have inspired initiatives like this one.\nThe event was graced by distinguished dignitaries including:\nDr. Tawfiq Al-Swailem, President, Awasser, Ministry of Interior – KSA\nBalagopal Chandrasekhar, Ex-IAS Officer, Entrepreneur, Professor of Practice at IIM Kozhikode\nBarry Fourie, Non-Executive Advisor at Bluzee",
+      "destination": "Events page",
+      "source_web_ref": "turn32view0"
+    },
+    {
+      "id": "volvo-session",
+      "title": "Design Your Professional Character™ at Volvo",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/",
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Mukundakumar K G, Bluzee cofounder",
+      "event_date": "2026-03-24",
+      "description_summary": "Session delivered in Bangalore; source appreciation image dates the session to 24 March 2026.",
+      "video_id": "0ae95f_b2e0c9943a474a1f93cdc7d499b0fd8b",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_b2e0c9943a474a1f93cdc7d499b0fd8b/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_b2e0c9943a474a1f93cdc7d499b0fd8bf000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/volvo-session-poster.jpg",
+      "wix_component_ids": [
+        "comp-mnjzj4yu",
+        "comp-mnfp6evh"
+      ],
+      "proposed_destinations": [
+        "Home credibility section",
+        "Professional Workshop page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes.",
+      "source_text": "Design Your Professional Character™ @Volvo\nWhen industry meets impact\nMukund, representing Bluzee, delivered a session at Volvo on Design Your Professional Character™ — challenging perspectives, breaking conventional thinking, and redefining what it means to be a value creator in today’s professional world.\nThis reel captures key snippets from the session — insights that go beyond theory and speak directly to real-world execution.\nWatch till the end to see what Volvo had to say about the session.",
+      "destination": "Events page",
+      "source_web_ref": "turn32view0"
+    },
+    {
+      "id": "iit-madras-session",
+      "title": "Design Your Professional Character™ at IIT Madras",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/",
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Mukundakumar K G",
+      "event_date": null,
+      "description_summary": "Professional-character session for IIT Madras students.",
+      "video_id": "0ae95f_a3fcf040e8e3415bb154f1575c56349f",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_a3fcf040e8e3415bb154f1575c56349f/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_a3fcf040e8e3415bb154f1575c56349ff000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/iit-madras-session-poster.jpg",
+      "wix_component_ids": [
+        "comp-mlmjumbb",
+        "comp-mnjziv49"
+      ],
+      "proposed_destinations": [
+        "Home credibility section",
+        "Professional Workshop page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes.",
+      "source_text": "Our Flagship Workshop - Design Your Professional Character @IIT Madras\n🎓 IIT Madras at its Best | Building Value Creators with Mukundakumar K G (Bluzee™)\nBluzee™ had the privilege to deliver our flagship workshop:\n✅ “Design Your Professional Character – Invoke the Value Creator in You”\nto the students of Indian Institute of Technology Madras at the iconic IIT Madras campus.\nIt was an honour to engage with some of the brightest young minds in the country and have meaningful conversations around mindset, ownership, and real-world relevance.\nBluzee proudly honored the invite from IIT Madras, and Mukundakumar K G (Co-Founder & Partner, Bluzee) addressed the students with a powerful industry message:\n🔹 Skills can get you hired. Professional Character makes you trusted, valued, and irreplaceable.\n🔹 The market rewards Value Creators — not job seekers.\nAn engaging session focused on moving beyond degrees and building long-term professional credibility in a competitive world.",
+      "destination": "Events page",
+      "source_web_ref": "turn32view0"
+    },
+    {
+      "id": "iim-kozhikode-session",
+      "title": "Design Your Professional Character™ at IIM Kozhikode",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/",
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Mukundakumar K G; described on source as an IIM Kozhikode alumnus",
+      "event_date": null,
+      "description_summary": "Professional-character session at IIM Kozhikode; retain the complete recording.",
+      "video_id": "0ae95f_3236c40468b84b78bb4ab98f70f135c5",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_3236c40468b84b78bb4ab98f70f135c5/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_3236c40468b84b78bb4ab98f70f135c5f000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/iim-kozhikode-session-poster.jpg",
+      "wix_component_ids": [
+        "comp-mlmkpxai1",
+        "comp-mnjzjud0"
+      ],
+      "proposed_destinations": [
+        "Home credibility section",
+        "Professional Workshop page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes.",
+      "source_text": "Design Your Professional Character @IIM Kozhikode\n🎓 IIM Kozhikode at its Best | Building Value Creators with Mukundakumar K G (Bluzee™)\nBluzee™ had the privilege to deliver our flagship workshop:\n✅ “Design Your Professional Character – Invoke the Value Creator in You”\nto the students of Indian Institute of Management Kozhikode (IIM Kozhikode) at the IIM Kozhikode Campus.\nWhat made this session especially meaningful was that Mukundakumar K G, Co-Founder & Partner at Bluzee™, is an alumnus of IIM Kozhikode, returning to his alma mater to share industry insights and real-world perspectives with the next generation of leaders.\nBluzee™ proudly honored the invite from IIM Kozhikode, and Mukundakumar addressed the students with a powerful industry message:\n🔹 Skills can get you hired. Professional Character makes you trusted, valued, and irreplaceable.\n🔹 The market rewards Value Creators — not job seekers.\nWe express our heartfelt gratitude to the IIM Kozhikode faculty and coordination team for the seamless coordination and encouragement.",
+      "destination": "Events page",
+      "source_web_ref": "turn32view0"
+    },
+    {
+      "id": "nit-calicut-session",
+      "title": "Design Your Professional Character™ at NIT Calicut",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/",
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Mukundakumar K G; source feedback attributed to Dr. Suchand",
+      "event_date": "2026-01-08",
+      "description_summary": "Session for final-year BTech students at Bhaskara Auditorium. Source also acknowledges Dr. Vinay V Panicker, Centre for Career Development. Preserve original feedback in context.",
+      "video_id": "0ae95f_a9ff4c391815496c93136ffbf2c88ab7",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_a9ff4c391815496c93136ffbf2c88ab7/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_a9ff4c391815496c93136ffbf2c88ab7f000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/nit-calicut-session-poster.jpg",
+      "wix_component_ids": [
+        "comp-mlmkw0jt6",
+        "comp-mnjzlhc3"
+      ],
+      "proposed_destinations": [
+        "Professional Workshop page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes.",
+      "source_text": "Design Your Professional Character @NIT Calicut\n🎓 NIT Calicut at its Best | Building Value Creators with Mukundakumar K G (Bluzee™)\nOn 8th Jan 2026, Bluzee™ had the privilege to deliver our flagship workshop:\n✅ “Design Your Professional Character – Transition from Job Seeker to Value Creator”\nto the final-year BTech students of NIT Calicut at the iconic Bhaskara Auditorium inside NIT Calicut Campus.\nBluzee™ proudly honored the invite from NIT Calicut, and Mukundakumar K G (Co-Founder & Partner, Bluzee) addressed the budding engineers with a powerful industry message:\n🔹 Skills can get you hired. Professional Character makes you trusted, valued, and irreplaceable.\n🔹 The market rewards Value Creators — not job seekers.\nWe express our heartfelt gratitude to Dr. Vinay V Panicker\n(Chairperson, Centre for Career Development, NIT Calicut) and his wonderful team for the seamless coordination and encouragement.\nSpecial mention to Dr. Suchand, who acknowledged the workshop as:\n🌟 “First of its kind, most relevant and eye-opening session delivered with utmost clarity — at the best possible time for students.”",
+      "destination": "Events page",
+      "source_web_ref": "turn32view0"
+    },
+    {
+      "id": "mindfulness-session",
+      "title": "Mindfulness leadership workshop, Dubai",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/"
+      ],
+      "speaker_or_attribution": "Professor Debashis Chatterjee, identified as Director of IIM Kozhikode at the time of the event",
+      "event_date": "2023-02-28/2023-03-01",
+      "description_summary": "Workshop at Sheraton Grand Hotel, Sheikh Zayed Road, Dubai, 28 February–1 March 2023. The original extracted poster is black; preserve the media and event gallery without inventing a historical event image.",
+      "video_id": "0ae95f_5c52483f3fcf48e496c6dd8c45c7ac0f",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_5c52483f3fcf48e496c6dd8c45c7ac0f/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_5c52483f3fcf48e496c6dd8c45c7ac0ff000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/mindfulness-session-poster.jpg",
+      "wix_component_ids": [
+        "comp-lxdb9c0c"
+      ],
+      "proposed_destinations": [
+        "About Us",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes.",
+      "source_text": "The two-day flagship leadership workshop on 'Mindfulness'\nwas held at the Sheraton Grand Hotel on Shaik Zaid Road in Dubai from 28th February 2023 to 1st March 2023. The workshop was organized by Bluzee and delivered by the Director of IIM Kozhikode, Professor Debashis Chatterjee. The workshop was focused on the three core dimensions of insights which are clarity of purpose, commitment to excellence, and compassionate engagement, and how they relate to mindfulness in leadership.\nThe workshop was designed to provide participants with practical tools to develop their leadership skills using mindfulness practices. The sessions were interactive, and participants engaged in group activities, case studies, and practical exercises to enhance their understanding of the concepts presented.\nProfessor Debashis Chatterjee's expertise in the field, combined with the event's organization by Bluzee, made this flagship workshop a success. The participants expressed their satisfaction with the quality of the content and delivery, and the workshop received positive feedback for its valuable insights into mindfulness in leadership.",
+      "destination": "Events page",
+      "source_web_ref": "turn32view0"
+    }
+  ],
+  "programme_video": {
+    "id": "erp-hub-overview",
+    "title": "ERP Experience Hub: Start Your Journey",
+    "proof_type": "programme_overview_video",
+    "source_pages": [
+      "https://www.bluzee.xyz/experiencehub"
+    ],
+    "speaker_or_attribution": null,
+    "description_summary": "Existing portrait-format programme introduction, separate from the four participant testimonials.",
+    "video_id": "0ae95f_2954a1ba80624a5991f8bc661b538a50",
+    "original_video_url": "https://video.wixstatic.com/video/0ae95f_2954a1ba80624a5991f8bc661b538a50/720p/mp4/file.mp4",
+    "http_status": 200,
+    "original_poster_url": "https://static.wixstatic.com/media/0ae95f_2954a1ba80624a5991f8bc661b538a50f000.jpg",
+    "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/erp-hub-overview.jpg",
+    "wix_component_ids": [
+      "comp-mnk080lb"
+    ],
+    "proposed_destinations": [
+      "ERP Experience Hub page"
+    ],
+    "preservation_action": "Preserve as programme overview, with click-to-play and original page link."
+  },
+  "event_galleries": [
+    {
+      "event_id": "mindfulness-session",
+      "source_url": "https://www.bluzee.xyz/",
+      "source_component": "comp-lxks42j5_galleryData",
+      "items": [
+        {
+          "id": "mindfulness-gallery-01",
+          "original_url": "https://static.wixstatic.com/media/d717fc_dae873b502754c14880f6f42e0ad7ef9~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/mindfulness-gallery-01.jpg",
+          "original_filename": "DSC09715.jpg",
+          "source_item_id": "077f6239-b80f-41f7-b32e-f0483432efeb",
+          "width": 4608,
+          "height": 3072,
+          "alt": "Mindfulness leadership workshop, source gallery photograph 1",
+          "http_status": 200,
+          "bytes": 8299902,
+          "source_order": 1,
+          "source_caption": ""
+        },
+        {
+          "id": "mindfulness-gallery-02",
+          "original_url": "https://static.wixstatic.com/media/d717fc_ad91b40f18174c79925ed603413b3b9a~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/mindfulness-gallery-02.jpg",
+          "original_filename": "DSC09730.jpg",
+          "source_item_id": "a9fedf62-bcfe-4caf-b590-e04e89f1da9b",
+          "width": 4608,
+          "height": 3072,
+          "alt": "Mindfulness leadership workshop, source gallery photograph 2",
+          "http_status": 200,
+          "bytes": 9414597,
+          "source_order": 2,
+          "source_caption": ""
+        },
+        {
+          "id": "mindfulness-gallery-03",
+          "original_url": "https://static.wixstatic.com/media/d717fc_2a523b51515b4e1faf1967adde172570~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/mindfulness-gallery-03.jpg",
+          "original_filename": "DSC09808.jpg",
+          "source_item_id": "4c1860d1-216d-4ef4-8d2c-d1ad03d8fc45",
+          "width": 4608,
+          "height": 3072,
+          "alt": "Mindfulness leadership workshop, source gallery photograph 3",
+          "http_status": 200,
+          "bytes": 8715251,
+          "source_order": 3,
+          "source_caption": ""
+        },
+        {
+          "id": "mindfulness-gallery-04",
+          "original_url": "https://static.wixstatic.com/media/d717fc_91e38191c9e140be844f368afcba6c8f~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/mindfulness-gallery-04.jpg",
+          "original_filename": "DSC00157.jpg",
+          "source_item_id": "187beb86-bab5-4c03-9110-6271df739a2e",
+          "width": 4494,
+          "height": 2996,
+          "alt": "Mindfulness leadership workshop, source gallery photograph 4",
+          "http_status": 200,
+          "bytes": 6482643,
+          "source_order": 4,
+          "source_caption": ""
+        },
+        {
+          "id": "mindfulness-gallery-05",
+          "original_url": "https://static.wixstatic.com/media/d717fc_d41e7b9dfd6c4aef8badd12288eb5701~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/mindfulness-gallery-05.jpg",
+          "original_filename": "DSC09857.jpg",
+          "source_item_id": "28d54e48-81bf-4450-a71d-e4d9c6218cff",
+          "width": 4178,
+          "height": 2795,
+          "alt": "Mindfulness leadership workshop, source gallery photograph 5",
+          "http_status": 200,
+          "bytes": 4920515,
+          "source_order": 5,
+          "source_caption": ""
+        },
+        {
+          "id": "mindfulness-gallery-06",
+          "original_url": "https://static.wixstatic.com/media/d717fc_0e24d14c51694d73a475ab7e9c3691e3~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/mindfulness-gallery-06.jpg",
+          "original_filename": "DSC09763.jpg",
+          "source_item_id": "ec4c457d-f7c9-4c7d-a4d1-e7badc2d8f0d",
+          "width": 3997,
+          "height": 2665,
+          "alt": "Mindfulness leadership workshop, source gallery photograph 6",
+          "http_status": 200,
+          "bytes": 4738303,
+          "source_order": 6,
+          "source_caption": ""
+        },
+        {
+          "id": "mindfulness-gallery-07",
+          "original_url": "https://static.wixstatic.com/media/d717fc_a0ac50694d0a4df8969e1183f24891e2~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/mindfulness-gallery-07.jpg",
+          "original_filename": "DSC09728.jpg",
+          "source_item_id": "87a01b51-5be3-4c24-a68d-f4e69bc8b58b",
+          "width": 4608,
+          "height": 3072,
+          "alt": "Mindfulness leadership workshop, source gallery photograph 7",
+          "http_status": 200,
+          "bytes": 6444608,
+          "source_order": 7,
+          "source_caption": ""
+        }
+      ],
+      "caption_policy": "Use neutral event-level captions. Do not identify pictured people or infer attendance from appearance."
+    },
+    {
+      "event_id": "erp-hub-launch",
+      "source_url": "https://www.bluzee.xyz/",
+      "source_component": "comp-mb2e0vk8_galleryData",
+      "items": [
+        {
+          "id": "erp-hub-launch-gallery-01",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_dec60acf1c844b37b275f39e12eac86d~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/erp-hub-launch-gallery-01.jpg",
+          "original_filename": "DSC05260.jpg",
+          "source_item_id": "e8d795c5-8627-497e-819b-cbeb30ffabd9",
+          "width": 7008,
+          "height": 4672,
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 1",
+          "http_status": 200,
+          "bytes": 20841521,
+          "source_order": 1,
+          "source_caption": ""
+        },
+        {
+          "id": "erp-hub-launch-gallery-02",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_c7b8c6f909fd4c679796f7cbe955f941~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/erp-hub-launch-gallery-02.jpg",
+          "original_filename": "DSC05045.jpg",
+          "source_item_id": "5c412dca-04b4-4b75-acbe-cd48ce920452",
+          "width": 7008,
+          "height": 4672,
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 2",
+          "http_status": 200,
+          "bytes": 17966305,
+          "source_order": 2,
+          "source_caption": ""
+        },
+        {
+          "id": "erp-hub-launch-gallery-03",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_da14aaab218d4f70adf106b8e2c219c8~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/erp-hub-launch-gallery-03.jpg",
+          "original_filename": "DSC05080.jpg",
+          "source_item_id": "4823f519-63ab-4d4f-8f41-cb04501bf325",
+          "width": 7008,
+          "height": 4672,
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 3",
+          "http_status": 200,
+          "bytes": 17947975,
+          "source_order": 3,
+          "source_caption": ""
+        },
+        {
+          "id": "erp-hub-launch-gallery-04",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_234f5be734ab4e37b4aa7d52d3e44839~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/erp-hub-launch-gallery-04.jpg",
+          "original_filename": "DSC04417.jpg",
+          "source_item_id": "f1f5f700-fe5e-4521-808f-d146cb7c0744",
+          "width": 7008,
+          "height": 4672,
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 4",
+          "http_status": 200,
+          "bytes": 20547404,
+          "source_order": 4,
+          "source_caption": ""
+        },
+        {
+          "id": "erp-hub-launch-gallery-05",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_91e1548b9c18444f8843b18ec4246a15~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/erp-hub-launch-gallery-05.jpg",
+          "original_filename": "DSC05118.jpg",
+          "source_item_id": "68f6dac2-c842-44ea-b76c-a613862008c7",
+          "width": 7008,
+          "height": 4672,
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 5",
+          "http_status": 200,
+          "bytes": 19561799,
+          "source_order": 5,
+          "source_caption": ""
+        },
+        {
+          "id": "erp-hub-launch-gallery-06",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_f97afcf996e8413889dee1ab7b7bf222~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/erp-hub-launch-gallery-06.jpg",
+          "original_filename": "DSC04460.jpg",
+          "source_item_id": "493f6333-f63d-40a9-a725-01a02c751a48",
+          "width": 7008,
+          "height": 4672,
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 6",
+          "http_status": 200,
+          "bytes": 20261473,
+          "source_order": 6,
+          "source_caption": ""
+        },
+        {
+          "id": "erp-hub-launch-gallery-07",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_3afccfa03128432595c93c2477eafcb7~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/erp-hub-launch-gallery-07.jpg",
+          "original_filename": "DSC05726.jpg",
+          "source_item_id": "e977a683-0e58-4815-aa03-6b72a074a1ed",
+          "width": 7008,
+          "height": 4672,
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 7",
+          "http_status": 200,
+          "bytes": 23573992,
+          "source_order": 7,
+          "source_caption": ""
+        }
+      ],
+      "caption_policy": "Use neutral event-level captions. Do not identify pictured people or infer attendance from appearance."
+    }
+  ],
+  "additional_event_news": [
+    {
+      "id": "rset-mou",
+      "title": "Bluzee Signs MOU with RSET",
+      "source_url": "https://www.bluzee.xyz/post/bluzee-signs-mou-with-rset",
+      "date": "2025-07-18",
+      "date_note": "Publication date; exact ceremony date not stated.",
+      "summary": "Bluzee announced an MoU with Rajagiri School of Engineering & Technology for industry–academia collaboration, mentoring and real-world exposure.",
+      "source_text": "Bluzee Signs MOU with RSET\nmukundkg\nJul 18, 2025\n1 min read\nBluzee is proud to announce the signing of a Memorandum of Understanding (MOU) with\nRajagiri School of Engineering & Technology (RSET)\n, cementing a strategic partnership aimed at fostering innovation, industry-academia collaboration, and real-world exposure for budding engineering talent.\nThe MOU was officially signed by\nMr. Mukundakumar KG\n, Co-Founder and Partner at Bluzee, during a formal ceremony held at the RSET campus. This partnership marks a significant step forward in Bluzee’s mission to bridge the gap between academic learning and practical business strategy.\nThrough this collaboration, Bluzee will work closely with RSET to:\nOffer strategic consulting insights for institutional development\nEnable student immersion into real-time industry challenges\nGuide innovation-driven student projects with mentorship and direction\nHost joint events, workshops, and training sessions focused on entrepreneurship and business transformation\nSpeaking on the occasion, Mr. Mukundakumar shared:\n“At Bluzee, we believe in empowering the next generation of thinkers and doers. This partnership with RSET aligns with our vision of shaping industry-ready minds and building sustainable strategy ecosystems within educational institutions.”\nThis MOU reaffirms Bluzee’s commitment to nurturing future talent and co-creating meaningful change in the Indian education landscape.\nStay tuned for more updates as we kick-start this exciting journey with RSET!",
+      "type": "event_news",
+      "video_url": null,
+      "video_note": "No event video discovered on this post.",
+      "destination": "Events page: News and milestones",
+      "image": {
+        "original_url": "https://static.wixstatic.com/media/0ae95f_990e108d4b614889b1e32905a72ebd3e~mv2.jpg",
+        "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/rset-mou.jpg",
+        "http_status": 200,
+        "bytes": 596451
+      },
+      "additional_images": [
+        {
+          "id": "rset-mou-photo-2",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_348dd222308a402f815ea7c17bc5d945~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/rset-mou-photo-2.jpg",
+          "http_status": 200,
+          "bytes": 1124999
+        },
+        {
+          "id": "rset-mou-photo-3",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_06c41dfb32134c2fbeb9c5359488d33d~mv2.jpg",
+          "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/rset-mou-photo-3.jpg",
+          "http_status": 200,
+          "bytes": 576948
+        }
+      ]
+    },
+    {
+      "id": "erp-hub-go-live",
+      "title": "Bluzee ERP Experience Hub Goes Live",
+      "source_url": "https://www.bluzee.xyz/post/bluzee-erp-experience-hub-goes-live-operational-from-26th-may-2025",
+      "date": "2025-05-26",
+      "date_note": "Operational start date; post published 13 May 2025.",
+      "summary": "The ERP Experience Hub began operations at its Cochin location next to Companipadi Metro Station. Preserve this operational milestone separately from the 22 May inauguration.",
+      "source_text": "Bluzee ERP Experience Hub Goes Live | Operational from 26th May 2025\nmukundkg\nMay 13, 2025\n1 min read\nWe’re thrilled to announce that the Bluzee ERP Experience Hub is officially becoming operational on 26th May 2025 at our newly set-up office, located next to Companipadi Metro Station, Ernakulam–Aluva Road, Cochin, Kerala.\nThis one-of-a-kind hub is designed not just to train, but to transform. At Bluzee, we believe:\n💡 “A training doesn't guarantee a job — but experience does.”\n🎯 Don’t settle for just a job. Build a career that matters.\nThrough immersive, hands-on exposure in real Odoo ERP projects, Bluzee ERP Experience Hub empowers fresh graduates to become industry-ready professionals, opening doors to global opportunities.\nWhether you’re a BCom, BCA, MCA, BTech, or diploma holder — this is your chance to gain the experience that employers value.\n👉 Grab your experience. Shape your future.\nWelcome to the Bluzee ERP Experience Hub — where careers are built.",
+      "type": "event_news",
+      "video_url": null,
+      "video_note": "No event video discovered on this post.",
+      "destination": "Events page: News and milestones"
+    },
+    {
+      "id": "recruitment-drive",
+      "title": "Bluzee India — Mega Recruitment Drive for Freshers",
+      "source_url": "https://www.bluzee.xyz/post/bluzee-india-mega-recruitment-drive-for-freshers-17th-may-2025",
+      "date": "2025-05-17",
+      "date_note": "Event date; publication metadata predates event even though body is retrospective.",
+      "summary": "Recruitment drive for fresh graduates and diploma holders at the ERP Experience Hub in Cochin, with written assessment and interviews for ERP, business operations and IT-support opportunities.",
+      "source_text": "Bluzee India – Mega Recruitment Drive for Freshers | 17th May 2025\nmukundkg\nMay 13, 2025\n1 min read\nOn\n17th May 2025\n,\nBluzee India\nhosted a successful\nMega Recruitment Drive\nat the\nBluzee ERP Experience Hub\nin Cochin, Kerala.The event was specially organized for fresh graduates and diploma holders looking to kickstart their careers in the\nIT, ERP, and Business Operations\ndomains.\n🚀 About the Drive\nWith an enthusiastic turnout from across the state, the drive provided a platform for young talent to showcase their skills and passion.This initiative is part of Bluzee’s vision to\nempower the next generation of ERP professionals\nand create opportunities where freshers can thrive.\n🗓️ Event Details\nDate:\n17th May 2025\nTime:\n9:00 AM – 3:00 PM\nVenue:\nBluzee ERP Experience Hub, Cochin, Kerala\n🎓 Eligibility Criteria\nFreshers from the following streams were invited:\nBCom, MCom\nBCA, MCA\nBSc (Computer Science, Mathematics, Physics, Chemistry)\nBTech, BE\nDiploma holders (Technical & Business domains)\n💼 Career Opportunities Offered\nCandidates explored opportunities in:\nOdoo ERP Implementation & Support\nBusiness Operations & Process Design\nIT Services & Technical Support\nThe recruitment process included a written test followed by interviews conducted by Bluzee’s technical and HR teams.\n🌱 Why Bluzee?\nAt\nBluzee\n, we don’t just build software—we build careers.Our work culture focuses on:\nReal-time project experience\nIndustry mentorship\nInnovation-driven growth\nLearning-first mindset\n📣 Looking Ahead\nWe were thrilled to witness the enthusiasm and energy from so many aspiring professionals.This recruitment drive reaffirmed our belief in creating\nmeaningful career pathways for youth\n.\nTo stay updated on future hiring events and initiatives, follow us at\nwww.bluzee.xyz\nor reach out to\nhr@bluzee.xyz\n.\nLet’s build the future, one fresher at a time.",
+      "type": "event_news",
+      "video_url": null,
+      "video_note": "No event video discovered on this post.",
+      "destination": "Events page: News and milestones",
+      "image": {
+        "original_url": "https://static.wixstatic.com/media/0ae95f_240d70c918714f5a809b622286b7db65~mv2.png",
+        "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/recruitment-drive.png",
+        "http_status": 200,
+        "bytes": 4751369
+      }
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "manas-aravind",
+      "title": "Manas Aravind",
+      "proof_type": "participant_video_testimonial",
+      "source_pages": [
+        "https://www.bluzee.xyz/experiencehub"
+      ],
+      "speaker_or_attribution": "Manas Aravind",
+      "description_summary": "Existing participant video; preserve name, source image and original Wix Video player. Do not rewrite participant statements or turn an individual experience into a programme guarantee.",
+      "duration_iso8601": "PT38S",
+      "upload_date": "2025-11-25T09:53:21.399Z",
+      "video_id": "0ae95f_191774e988a04d7c86598bd7338c270a",
+      "original_player_url": "https://www.bluzee.xyz/experiencehub",
+      "original_video_url": null,
+      "direct_mp4_candidate": "https://video.wixstatic.com/video/0ae95f_191774e988a04d7c86598bd7338c270a/720p/mp4/file.mp4",
+      "direct_mp4_status": 403,
+      "hls_status": 401,
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_191774e988a04d7c86598bd7338c270af002.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/manas-aravind.jpg",
+      "proposed_destinations": [
+        "ERP Experience Hub page: Participant voices",
+        "Stories & sessions library: Student stories"
+      ],
+      "preservation_action": "In the review concept, link poster to the original /experiencehub page. In Wix, retain the existing Wix Video player/collection and media IDs. Do not hard-code expiring HLS tokens.",
+      "playback_limitation": "The source JSON-LD exposes a signed HLS contentUrl, but it returned HTTP 401. Direct MP4 returned HTTP 403. Full playback and transcript were not verified.",
+      "destination": "Testimonials page"
+    },
+    {
+      "id": "muhammed-ansil-pa",
+      "title": "Muhammed Ansil PA",
+      "proof_type": "participant_video_testimonial",
+      "source_pages": [
+        "https://www.bluzee.xyz/experiencehub"
+      ],
+      "speaker_or_attribution": "Muhammed Ansil PA",
+      "description_summary": "Existing participant video; preserve name, source image and original Wix Video player. Do not rewrite participant statements or turn an individual experience into a programme guarantee.",
+      "duration_iso8601": "PT29S",
+      "upload_date": "2025-07-20T06:34:40.324Z",
+      "video_id": "0ae95f_16615424309f4151a8d90c8bd60f219a",
+      "original_player_url": "https://www.bluzee.xyz/experiencehub",
+      "original_video_url": null,
+      "direct_mp4_candidate": "https://video.wixstatic.com/video/0ae95f_16615424309f4151a8d90c8bd60f219a/720p/mp4/file.mp4",
+      "direct_mp4_status": 403,
+      "hls_status": 401,
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_16615424309f4151a8d90c8bd60f219af002.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/muhammed-ansil-pa.jpg",
+      "proposed_destinations": [
+        "ERP Experience Hub page: Participant voices",
+        "Stories & sessions library: Student stories"
+      ],
+      "preservation_action": "In the review concept, link poster to the original /experiencehub page. In Wix, retain the existing Wix Video player/collection and media IDs. Do not hard-code expiring HLS tokens.",
+      "playback_limitation": "The source JSON-LD exposes a signed HLS contentUrl, but it returned HTTP 401. Direct MP4 returned HTTP 403. Full playback and transcript were not verified.",
+      "destination": "Testimonials page"
+    },
+    {
+      "id": "anirudh-vk",
+      "title": "Anirudh VK",
+      "proof_type": "participant_video_testimonial",
+      "source_pages": [
+        "https://www.bluzee.xyz/experiencehub"
+      ],
+      "speaker_or_attribution": "Anirudh VK",
+      "description_summary": "Existing participant video; preserve name, source image and original Wix Video player. Do not rewrite participant statements or turn an individual experience into a programme guarantee.",
+      "duration_iso8601": "PT38S",
+      "upload_date": "2025-07-19T07:58:01.959Z",
+      "video_id": "0ae95f_571eafe520904e9ba7d446f06a3d4c0d",
+      "original_player_url": "https://www.bluzee.xyz/experiencehub",
+      "original_video_url": null,
+      "direct_mp4_candidate": "https://video.wixstatic.com/video/0ae95f_571eafe520904e9ba7d446f06a3d4c0d/720p/mp4/file.mp4",
+      "direct_mp4_status": 403,
+      "hls_status": 401,
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_571eafe520904e9ba7d446f06a3d4c0df002.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/anirudh-vk.jpg",
+      "proposed_destinations": [
+        "ERP Experience Hub page: Participant voices",
+        "Stories & sessions library: Student stories"
+      ],
+      "preservation_action": "In the review concept, link poster to the original /experiencehub page. In Wix, retain the existing Wix Video player/collection and media IDs. Do not hard-code expiring HLS tokens.",
+      "playback_limitation": "The source JSON-LD exposes a signed HLS contentUrl, but it returned HTTP 401. Direct MP4 returned HTTP 403. Full playback and transcript were not verified.",
+      "destination": "Testimonials page"
+    },
+    {
+      "id": "vaishnav-pm",
+      "title": "Vaishnav PM",
+      "proof_type": "participant_video_testimonial",
+      "source_pages": [
+        "https://www.bluzee.xyz/experiencehub"
+      ],
+      "speaker_or_attribution": "Vaishnav PM",
+      "description_summary": "Existing participant video; preserve name, source image and original Wix Video player. Do not rewrite participant statements or turn an individual experience into a programme guarantee.",
+      "duration_iso8601": "PT29S",
+      "upload_date": "2025-07-19T05:17:44.201Z",
+      "video_id": "0ae95f_4e16212b88184d8dbf9207f05cbdf395",
+      "original_player_url": "https://www.bluzee.xyz/experiencehub",
+      "original_video_url": null,
+      "direct_mp4_candidate": "https://video.wixstatic.com/video/0ae95f_4e16212b88184d8dbf9207f05cbdf395/720p/mp4/file.mp4",
+      "direct_mp4_status": 403,
+      "hls_status": 401,
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_4e16212b88184d8dbf9207f05cbdf395f002.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/vaishnav-pm.jpg",
+      "proposed_destinations": [
+        "ERP Experience Hub page: Participant voices",
+        "Stories & sessions library: Student stories"
+      ],
+      "preservation_action": "In the review concept, link poster to the original /experiencehub page. In Wix, retain the existing Wix Video player/collection and media IDs. Do not hard-code expiring HLS tokens.",
+      "playback_limitation": "The source JSON-LD exposes a signed HLS contentUrl, but it returned HTTP 401. Direct MP4 returned HTTP 403. Full playback and transcript were not verified.",
+      "destination": "Testimonials page"
+    },
+    {
+      "id": "volvo-feedback",
+      "title": "Volvo appreciation letter",
+      "proof_type": "source_feedback_image",
+      "source_pages": [
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Dr. Ranjith T P, Head of Talent Acquisition, Volvo Group India Pvt Ltd.",
+      "description_summary": "Appreciation email screenshot referring to the 24 March 2026 Bangalore session. Preserve the source image; do not rewrite the testimonial as new copy.",
+      "original_image_url": "https://static.wixstatic.com/media/0ae95f_25f841b3599e4078b0a51ef51fa3732e~mv2.png",
+      "local_image_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/volvo-feedback.png",
+      "proposed_destinations": [
+        "Professional Workshop page: Original feedback"
+      ],
+      "preservation_action": "Show the original source image with accessible link to source page; keep any source redactions intact.",
+      "destination": "Testimonials page"
+    }
+  ],
+  "partners": [
+    {
+      "order": 1,
+      "original_url": "https://static.wixstatic.com/media/0ae95f_65a822e37bcf428dbb5f3aab24d99a18~mv2.jpeg",
+      "rendered_url": "https://static.wixstatic.com/media/0ae95f_65a822e37bcf428dbb5f3aab24d99a18~mv2.jpeg/v1/fill/w_157,h_157,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/rajagiri_school_of_engineering_and_technology_logo.jpeg",
+      "original_alt": "rajagiri_school_of_engineering_and_technology_logo.jpeg",
+      "link": null,
+      "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/partner-rset.jpeg",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "source_section": "Our Partners",
+      "bytes": 8681,
+      "width": 200,
+      "height": 200,
+      "label": "Rajagiri School of Engineering & Technology (RSET)",
+      "evidence": "Displayed in the current Bluzee About page under the heading Our Partners. Brand label read from the original logo image.",
+      "claim_boundary": "No partnership level, accreditation, endorsement, commercial scope or testimonial is inferred from the logo.",
+      "source_web_ref": "turn29view0",
+      "destination": "Testimonials page, separate Our Partners section",
+      "name": "Rajagiri School of Engineering & Technology (RSET)"
+    },
+    {
+      "order": 2,
+      "original_url": "https://static.wixstatic.com/media/d717fc_b4c46d4e19c346869a0054bfb34cfaf3~mv2.png",
+      "rendered_url": "https://static.wixstatic.com/media/d717fc_b4c46d4e19c346869a0054bfb34cfaf3~mv2.png/v1/crop/x_0,y_40,w_200,h_120/fill/w_140,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a242bf7ba9147b4e81e7629157749f07.png",
+      "original_alt": "a242bf7ba9147b4e81e7629157749f07.png",
+      "link": null,
+      "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/partner-sequantix.png",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "source_section": "Our Partners",
+      "bytes": 24836,
+      "width": 200,
+      "height": 200,
+      "label": "Sequantix",
+      "evidence": "Displayed in the current Bluzee About page under the heading Our Partners. Brand label read from the original logo image.",
+      "claim_boundary": "No partnership level, accreditation, endorsement, commercial scope or testimonial is inferred from the logo.",
+      "source_web_ref": "turn29view0",
+      "destination": "Testimonials page, separate Our Partners section",
+      "name": "Sequantix"
+    },
+    {
+      "order": 3,
+      "original_url": "https://static.wixstatic.com/media/0ae95f_5ff4e3f247284bf5b4abd66b0baa9aea~mv2.jpg",
+      "rendered_url": "https://static.wixstatic.com/media/0ae95f_5ff4e3f247284bf5b4abd66b0baa9aea~mv2.jpg/v1/fill/w_135,h_135,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1630571864415.jpg",
+      "original_alt": "1630571864415.jpg",
+      "link": null,
+      "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/partner-cloudvalley.jpg",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "source_section": "Our Partners",
+      "bytes": 6656,
+      "width": 200,
+      "height": 200,
+      "label": "Cloudvalley",
+      "evidence": "Displayed in the current Bluzee About page under the heading Our Partners. Brand label read from the original logo image.",
+      "claim_boundary": "No partnership level, accreditation, endorsement, commercial scope or testimonial is inferred from the logo.",
+      "source_web_ref": "turn29view0",
+      "destination": "Testimonials page, separate Our Partners section",
+      "name": "Cloudvalley"
+    },
+    {
+      "order": 4,
+      "original_url": "https://static.wixstatic.com/media/0ae95f_f30f18cd095a4196bd1ecd2495858999~mv2.png",
+      "rendered_url": "https://static.wixstatic.com/media/0ae95f_f30f18cd095a4196bd1ecd2495858999~mv2.png/v1/fill/w_270,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/odoo_logo.png",
+      "original_alt": "odoo_logo.png",
+      "link": null,
+      "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/partner-odoo.png",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "source_section": "Our Partners",
+      "bytes": 3576,
+      "width": 621,
+      "height": 196,
+      "label": "Odoo",
+      "evidence": "Displayed in the current Bluzee About page under the heading Our Partners. Brand label read from the original logo image.",
+      "claim_boundary": "No partnership level, accreditation, endorsement, commercial scope or testimonial is inferred from the logo.",
+      "source_web_ref": "turn29view0",
+      "destination": "Testimonials page, separate Our Partners section",
+      "name": "Odoo"
+    },
+    {
+      "order": 5,
+      "original_url": "https://static.wixstatic.com/media/d717fc_f10eb8a99efa49f990841c1cca8aee56~mv2.png",
+      "rendered_url": "https://static.wixstatic.com/media/d717fc_f10eb8a99efa49f990841c1cca8aee56~mv2.png/v1/crop/x_13,y_0,w_1311,h_800/fill/w_122,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/58b272f009df569395744ab636c9da19.png",
+      "original_alt": "58b272f009df569395744ab636c9da19.png",
+      "link": null,
+      "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/partner-dsti.png",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "source_section": "Our Partners",
+      "bytes": 105940,
+      "width": 1324,
+      "height": 800,
+      "label": "DSTI",
+      "evidence": "Displayed in the current Bluzee About page under the heading Our Partners. Brand label read from the original logo image.",
+      "claim_boundary": "No partnership level, accreditation, endorsement, commercial scope or testimonial is inferred from the logo.",
+      "source_web_ref": "turn29view0",
+      "destination": "Testimonials page, separate Our Partners section",
+      "name": "DSTI"
+    },
+    {
+      "order": 6,
+      "original_url": "https://static.wixstatic.com/media/0ae95f_0dc698474b334db1acad7b7a194cb592~mv2.png",
+      "rendered_url": "https://static.wixstatic.com/media/0ae95f_0dc698474b334db1acad7b7a194cb592~mv2.png/v1/fill/w_239,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TechativeLogoBlack.png",
+      "original_alt": "TechativeLogoBlack.png",
+      "link": null,
+      "local_path": "/workspace/scratch/a23a2b861946/website-research/v3-events/partner-techative.png",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "source_section": "Our Partners",
+      "bytes": 6228,
+      "width": 265,
+      "height": 37,
+      "label": "Techative",
+      "evidence": "Displayed in the current Bluzee About page under the heading Our Partners. Brand label read from the original logo image.",
+      "claim_boundary": "No partnership level, accreditation, endorsement, commercial scope or testimonial is inferred from the logo.",
+      "source_web_ref": "turn29view0",
+      "destination": "Testimonials page, separate Our Partners section",
+      "name": "Techative"
+    }
+  ],
+  "launch_distinction": {
+    "verified_launch": "ERP Experience Hub inauguration, 22 May 2025, Kochi Marriott Hotel",
+    "verified_video_id": "0ae95f_e907a793ae53467b9dacb8c9428e076d",
+    "separate_corporate_bluzee_launch": "Not independently discoverable in the current public pages, page video metadata or ten blog posts inspected. Do not relabel the ERP Hub event as a separate corporate launch or fabricate a second event.",
+    "guidance": "Use the exact source event identity. If the user intends another company-launch recording, its source/asset is missing from the discoverable live site."
+  },
+  "missing_from_prior_concept": [
+    "Six partner logos in a dedicated Our Partners section",
+    "Fourteen source gallery photographs across the ERP Hub launch and Mindfulness workshop",
+    "RSET MoU event record and three photographs",
+    "17 May 2025 recruitment-drive record and original poster",
+    "ERP Hub 26 May 2025 operational-start milestone, distinct from launch"
+  ],
+  "findings": [
+    "No additional unique event videos were found beyond the six already in preservation-inventory.json. The seventh playable media item is a programme overview, not an event recording.",
+    "The four participant testimonial clips and original Volvo feedback image are already inventoried; retain their original names and recordings, not invented quotations.",
+    "Partner logos should be presented as partners, separate from first-person testimonials; institution workshop logos do not establish endorsement.",
+    "The current inauguration article link remains the previously identified missing article; keep the valid homepage event recording and gallery.",
+    "The go-live post contains an employment-guarantee slogan; do not repeat it as an unconditional promise in new copy. Retain a neutral milestone summary and original source link.",
+    "A seventh image immediately after the partners section belongs to the Vision background; it is excluded from the curated partner list."
+  ],
+  "source_refs": {
+    "home": "turn32view0",
+    "about": "turn29view0",
+    "recruitment_post": "turn35view2",
+    "sequantix_name_verification": "turn36search0"
+  },
+  "evidence_files": [
+    "public-page-audit.json",
+    "home-gallery-data.json",
+    "partner-assets-raw.json"
+  ]
+}

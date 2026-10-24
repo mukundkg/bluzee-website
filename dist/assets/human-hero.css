@@ -1,0 +1,32 @@
+/* A calmer, people-centred opening. Text and actions remain stationary. */
+.human-hero{min-height:760px;background:#071320}
+.human-hero .hero-scene{inset:-1%;background-image:url('hero-human-v6.webp');background-position:center;background-size:cover;opacity:1;animation:human-camera 30s ease-in-out infinite alternate;transform-origin:70% 50%}
+.human-hero .hero-shade{background:linear-gradient(90deg,#06111ff0 0%,#06111fe0 23%,#06111f85 43%,#06111f15 60%,transparent 75%),linear-gradient(0deg,#030914e6 0%,#03091438 20%,transparent 43%)}
+.human-hero .hero-copy{max-width:670px}
+.human-hero .hero-copy h1{font-size:clamp(76px,7.3vw,108px);line-height:1.03;letter-spacing:-.065em;text-shadow:0 3px 45px #03091438;max-width:670px}
+.human-hero .hero-copy .lede{max-width:435px;font-size:16px;line-height:1.9;color:#d0dce8}
+.human-hero .hero-copy>.eyebrow{color:#bed7e7;letter-spacing:.15em}
+.human-hero .hero-copy .accent{color:#a3e4ee}
+.human-hero .hero-copy .actions{margin-top:30px}
+.human-hero .hero-bottom{font-size:10px;gap:21px;color:#c8d7e5;margin-top:44px}
+.human-daylight{position:absolute;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(ellipse at 88% 10%,#fff5da12,transparent 57%);animation:human-light 20s ease-in-out infinite alternate}
+.human-hero .hero-signal,.human-hero .hero-signal.second{top:auto;bottom:90px;right:40px;animation:none;background:#08172be6;backdrop-filter:blur(14px);border-color:#a7d3df60;box-shadow:0 12px 35px #0003;padding:14px 17px;gap:12px;border-radius:9px;transition:transform .4s,border-color .4s}
+.human-hero .hero-signal.second{right:265px}
+.human-hero .hero-signal:hover{transform:translateY(-3px);border-color:#bdeef5}
+.human-hero .hero-signal b{font-size:11px}.human-hero .hero-signal small{font-size:9px;color:#b9cddd}
+.human-scene-caption{position:absolute;right:40px;bottom:23px;font-size:8px;line-height:1.5;letter-spacing:.05em;color:#b7cbd9;z-index:1}
+.human-hero.offstage *,.tab-hidden .human-hero *{animation-play-state:paused!important}
+@keyframes human-camera{from{transform:translate3d(calc(var(--hero-x,0px)*.3),calc(var(--hero-y,0px)*.3),0) scale(1.005)}to{transform:translate3d(calc(var(--hero-x,0px)*.3),calc(var(--hero-y,0px)*.3),0) scale(1.035)}}
+@keyframes human-light{from{opacity:.25}to{opacity:.75}}
+@media(min-width:1600px){.human-hero{min-height:820px}.human-hero .hero-signal{right:7%}.human-hero .hero-signal.second{right:calc(7% + 225px)}}
+@media(max-width:1200px){.human-hero{min-height:720px}.human-hero .hero-copy h1{font-size:clamp(72px,7.5vw,90px)}.human-hero .hero-copy .lede{max-width:400px}.human-hero .hero-signal,.human-hero .hero-signal.second{bottom:60px}.human-hero .hero-shade{background:linear-gradient(90deg,#06111ff5,#06111fdd 27%,#06111f6b 48%,transparent 72%),linear-gradient(0deg,#030914e6,transparent 38%)}}
+@media(max-width:1000px){.human-hero .hero-copy h1{font-size:76px}.human-hero .hero-copy .lede{max-width:370px;font-size:15px}.human-hero .hero-bottom{max-width:380px;flex-wrap:wrap;gap:12px 18px}.human-hero .hero-copy .btn{font-size:11px;padding:13px 17px;gap:12px}.human-hero .hero-copy .actions{gap:12px}.human-hero .hero-shade{background:linear-gradient(90deg,#06111ff5,#06111fda 29%,#06111f75 50%,#06111f12 75%),linear-gradient(0deg,#030914df,transparent 40%)}}
+@media(max-width:800px){.human-hero{min-height:980px;align-items:flex-start}.human-hero .wrap{padding-top:65px;padding-bottom:430px}.human-hero .hero-copy{max-width:640px}.human-hero .hero-copy h1{font-size:76px}.human-hero .hero-copy .lede{max-width:500px;font-size:16px}.human-hero .hero-scene{inset:auto 0 0;height:560px;background-position:80% center;background-size:cover;background-image:url('hero-human-v6.webp');opacity:1;transform-origin:75% 70%}.human-hero .hero-shade{background:linear-gradient(180deg,#071320 0%,#071320 38%,#071320e8 48%,#07132016 66%,#03091419 82%,#030914db 100%)}.human-hero .hero-bottom{max-width:none;margin-top:30px;gap:16px}.human-daylight{background:radial-gradient(ellipse at 80% 80%,#fff5da0d,transparent 50%)}.human-scene-caption{right:24px;bottom:18px;font-size:7px}}
+@media(max-width:560px){.human-hero{min-height:960px}.human-hero .wrap{padding-top:58px;padding-bottom:410px}.human-hero .hero-copy h1{font-size:clamp(53px,14.4vw,76px);line-height:1.04;letter-spacing:-.065em}.human-hero .hero-copy .lede{max-width:355px;font-size:14px;line-height:1.9;margin-top:24px}.human-hero .hero-copy .actions{margin-top:25px;gap:12px}.human-hero .hero-copy .btn{font-size:11px;padding:13px 16px;gap:11px}.human-hero .hero-bottom{font-size:9px;gap:13px;margin-top:28px;line-height:1.8}.human-hero .hero-scene{height:450px;inset:auto 0 0;background-image:url('hero-human-v6-small.webp');background-position:83% center;background-size:auto 100%;opacity:1}.human-hero .hero-shade{background:linear-gradient(180deg,#071320 0%,#071320 43%,#071320e3 53%,#07132018 65%,transparent 80%,#030914c9 100%)}.human-scene-caption{right:20px;bottom:17px;font-size:7px}}
+@media(max-width:360px){.human-hero{min-height:950px}.human-hero .hero-copy h1{font-size:49px}.human-hero .hero-copy .lede{font-size:13px}.human-hero .hero-bottom{font-size:8px;gap:9px}.human-hero .hero-copy .btn{font-size:10px;padding:13px 14px}.human-hero .hero-scene{height:400px;background-position:81% center}.human-hero .hero-shade{background:linear-gradient(180deg,#071320 0%,#071320 47%,#071320dd 57%,#07132012 69%,transparent 82%,#030914d9 100%)}}
+@media(prefers-reduced-motion:reduce){.human-hero .hero-scene{animation:none!important;transform:none!important}.human-daylight{display:none}}
+.motion-paused .human-hero .hero-scene{animation:none!important;transform:none!important}.motion-paused .human-daylight{display:none}
+/* Keep the message immediately readable, including in inactive browser tabs. */
+.human-hero .hero-copy h1,.human-hero .hero-copy>.eyebrow,.human-hero .hero-copy>.lede{animation:none!important;opacity:1;filter:none;transform:none}
+@media(max-width:560px){.human-hero{min-height:900px}.human-hero .wrap{padding-bottom:350px}.human-hero .hero-scene{height:380px;background-position:95% center}.human-hero .hero-scene:after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,#071320,transparent 24%,transparent 83%,#030914aa)}.human-hero .hero-shade{background:linear-gradient(180deg,#071320 0%,#071320 42%,#071320ad 54%,transparent 66%,transparent 85%,#03091455 100%)}}
+@media(max-width:360px){.human-hero{min-height:890px}.human-hero .hero-scene{height:350px;background-position:90% center}}

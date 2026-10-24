@@ -1,0 +1,19 @@
+{
+  "version": 4,
+  "date": "2026-10-24",
+  "method": "Built-in image generation",
+  "assets": [
+    {
+      "name": "Vision horizon",
+      "full": "dist/assets/vision-horizon-v4.webp",
+      "mobile": "dist/assets/vision-horizon-v4-small.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium corporate website Vision chapter, original cinematic conceptual artwork. Wide 3:2 landscape artwork. A monumental refined sculptural gateway built from flowing dark navy brushed titanium, one continuous sweeping tall curved arch, with thin electric blue light along its inside edge. The gateway opens toward an immense clear cobalt blue ocean and a distant luminous azure horizon, signaling unlimited opportunity, direction and possibility. Quiet pale blue dawn shaft of light, exquisite natural water reflections, sophisticated architectural photography meets high end CGI. Strong sculptural subject predominantly center-right, lower foreground dark midnight blue, breathtaking scale, intentional simplicity. Colour deep navy #030914, cobalt, luminous pale cyan; one tiny subtle dark red edge on foreground sculpture. No circles floating in space, no globes, no interface graphics, no rockets, no text, no letters, no branding, no watermark, no people. Cinematic sophisticated enterprise design, realistic materials, crisp depth, visually striking but restrained."
+    },
+    {
+      "name": "Mission shared purpose",
+      "full": "dist/assets/mission-unity-v4.webp",
+      "mobile": "dist/assets/mission-unity-v4-small.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium corporate website Mission chapter, original cinematic conceptual artwork. Wide 3:2 landscape artwork. Five distinct elegant sweeping ribbons made from translucent sapphire blue optical glass and dark blue satin metal converge in one luminous unified rising form, a sophisticated abstract sculptural symbol of trust, insight, exploration, diversity and resourcefulness coming together. Two ribbons have a deep burgundy red reflective edge. The sculptural form rises from a calm midnight blue architectural plinth with beautiful reflections. Dramatic pale cyan light passing through the layers, precise delicate caustics, rich shadows and deep blue negative space, polished editorial art direction, luxurious realistic CGI, large elegant curves not chaotic knots. Subject centered, visually complementary to a cinematic blue architectural gateway but distinctly different. No words, no letters, no logos, no text, no spheres, no orbital rings, no circuit boards, no people, no watermark. Impressive depth and clarity with thoughtful restrained geometry."
+    }
+  ]
+}

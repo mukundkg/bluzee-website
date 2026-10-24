@@ -1,0 +1,196 @@
+{
+  "posts": [
+    {
+      "title": "Bluzee Signs MOU with RSET",
+      "url": "https://www.bluzee.xyz/post/bluzee-signs-mou-with-rset",
+      "date": "Published 18 July 2025",
+      "summary": "Bluzee announced an MoU with Rajagiri School of Engineering & Technology for industry–academia collaboration, mentoring and real-world exposure.",
+      "images": [
+        {
+          "asset": "assets/events/rset-mou-1.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_990e108d4b614889b1e32905a72ebd3e~mv2.jpg",
+          "alt": "Bluzee Signs MOU with RSET — original image 1"
+        },
+        {
+          "asset": "assets/events/rset-mou-2.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_348dd222308a402f815ea7c17bc5d945~mv2.jpg",
+          "alt": "Bluzee Signs MOU with RSET — original image 2"
+        },
+        {
+          "asset": "assets/events/rset-mou-3.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_06c41dfb32134c2fbeb9c5359488d33d~mv2.jpg",
+          "alt": "Bluzee Signs MOU with RSET — original image 3"
+        }
+      ]
+    },
+    {
+      "title": "Bluzee ERP Experience Hub™ Goes Live",
+      "url": "https://www.bluzee.xyz/post/bluzee-erp-experience-hub-goes-live-operational-from-26th-may-2025",
+      "date": "Operations from 26 May 2025",
+      "summary": "The ERP Experience Hub began operations at its Cochin location next to Companipadi Metro Station.",
+      "images": []
+    },
+    {
+      "title": "Bluzee India — Mega Recruitment Drive for Freshers",
+      "url": "https://www.bluzee.xyz/post/bluzee-india-mega-recruitment-drive-for-freshers-17th-may-2025",
+      "date": "17 May 2025 · Archived event",
+      "summary": "Recruitment drive for fresh graduates and diploma holders at the ERP Experience Hub in Cochin, with written assessment and interviews for ERP, business operations and IT-support opportunities.",
+      "images": [
+        {
+          "asset": "assets/events/recruitment-drive-1.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_240d70c918714f5a809b622286b7db65~mv2.png",
+          "alt": "Bluzee India — Mega Recruitment Drive for Freshers — original image 1"
+        }
+      ]
+    }
+  ],
+  "partners": [
+    {
+      "name": "Rajagiri School of Engineering & Technology (RSET)",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "local_asset": "assets/partners/partner-rset.jpeg",
+      "original_url": "https://static.wixstatic.com/media/0ae95f_65a822e37bcf428dbb5f3aab24d99a18~mv2.jpeg"
+    },
+    {
+      "name": "Sequantix",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "local_asset": "assets/partners/partner-sequantix.png",
+      "original_url": "https://static.wixstatic.com/media/d717fc_b4c46d4e19c346869a0054bfb34cfaf3~mv2.png"
+    },
+    {
+      "name": "Cloudvalley",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "local_asset": "assets/partners/partner-cloudvalley.jpg",
+      "original_url": "https://static.wixstatic.com/media/0ae95f_5ff4e3f247284bf5b4abd66b0baa9aea~mv2.jpg"
+    },
+    {
+      "name": "Odoo",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "local_asset": "assets/partners/partner-odoo.png",
+      "original_url": "https://static.wixstatic.com/media/0ae95f_f30f18cd095a4196bd1ecd2495858999~mv2.png"
+    },
+    {
+      "name": "DSTI",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "local_asset": "assets/partners/partner-dsti.png",
+      "original_url": "https://static.wixstatic.com/media/d717fc_f10eb8a99efa49f990841c1cca8aee56~mv2.png"
+    },
+    {
+      "name": "Techative",
+      "source_url": "https://www.bluzee.xyz/about-us",
+      "local_asset": "assets/partners/partner-techative.png",
+      "original_url": "https://static.wixstatic.com/media/0ae95f_0dc698474b334db1acad7b7a194cb592~mv2.png"
+    }
+  ],
+  "galleries": [
+    {
+      "id": "mindfulness-session",
+      "title": "Mindfulness leadership workshop",
+      "caption": "Dubai · 2023",
+      "source_url": "https://www.bluzee.xyz/",
+      "images": [
+        {
+          "asset": "assets/events/mindfulness-gallery-01.webp",
+          "original_url": "https://static.wixstatic.com/media/d717fc_dae873b502754c14880f6f42e0ad7ef9~mv2.jpg",
+          "alt": "Mindfulness leadership workshop, source gallery photograph 1",
+          "order": 1
+        },
+        {
+          "asset": "assets/events/mindfulness-gallery-02.webp",
+          "original_url": "https://static.wixstatic.com/media/d717fc_ad91b40f18174c79925ed603413b3b9a~mv2.jpg",
+          "alt": "Mindfulness leadership workshop, source gallery photograph 2",
+          "order": 2
+        },
+        {
+          "asset": "assets/events/mindfulness-gallery-03.webp",
+          "original_url": "https://static.wixstatic.com/media/d717fc_2a523b51515b4e1faf1967adde172570~mv2.jpg",
+          "alt": "Mindfulness leadership workshop, source gallery photograph 3",
+          "order": 3
+        },
+        {
+          "asset": "assets/events/mindfulness-gallery-04.webp",
+          "original_url": "https://static.wixstatic.com/media/d717fc_91e38191c9e140be844f368afcba6c8f~mv2.jpg",
+          "alt": "Mindfulness leadership workshop, source gallery photograph 4",
+          "order": 4
+        },
+        {
+          "asset": "assets/events/mindfulness-gallery-05.webp",
+          "original_url": "https://static.wixstatic.com/media/d717fc_d41e7b9dfd6c4aef8badd12288eb5701~mv2.jpg",
+          "alt": "Mindfulness leadership workshop, source gallery photograph 5",
+          "order": 5
+        },
+        {
+          "asset": "assets/events/mindfulness-gallery-06.webp",
+          "original_url": "https://static.wixstatic.com/media/d717fc_0e24d14c51694d73a475ab7e9c3691e3~mv2.jpg",
+          "alt": "Mindfulness leadership workshop, source gallery photograph 6",
+          "order": 6
+        },
+        {
+          "asset": "assets/events/mindfulness-gallery-07.webp",
+          "original_url": "https://static.wixstatic.com/media/d717fc_a0ac50694d0a4df8969e1183f24891e2~mv2.jpg",
+          "alt": "Mindfulness leadership workshop, source gallery photograph 7",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "erp-hub-launch",
+      "title": "Bluzee ERP Experience Hub™ inauguration",
+      "caption": "22 May 2025 · Kochi Marriott Hotel",
+      "source_url": "https://www.bluzee.xyz/",
+      "images": [
+        {
+          "asset": "assets/events/erp-hub-launch-gallery-01.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_dec60acf1c844b37b275f39e12eac86d~mv2.jpg",
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 1",
+          "order": 1
+        },
+        {
+          "asset": "assets/events/erp-hub-launch-gallery-02.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_c7b8c6f909fd4c679796f7cbe955f941~mv2.jpg",
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 2",
+          "order": 2
+        },
+        {
+          "asset": "assets/events/erp-hub-launch-gallery-03.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_da14aaab218d4f70adf106b8e2c219c8~mv2.jpg",
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 3",
+          "order": 3
+        },
+        {
+          "asset": "assets/events/erp-hub-launch-gallery-04.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_234f5be734ab4e37b4aa7d52d3e44839~mv2.jpg",
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 4",
+          "order": 4
+        },
+        {
+          "asset": "assets/events/erp-hub-launch-gallery-05.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_91e1548b9c18444f8843b18ec4246a15~mv2.jpg",
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 5",
+          "order": 5
+        },
+        {
+          "asset": "assets/events/erp-hub-launch-gallery-06.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_f97afcf996e8413889dee1ab7b7bf222~mv2.jpg",
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 6",
+          "order": 6
+        },
+        {
+          "asset": "assets/events/erp-hub-launch-gallery-07.webp",
+          "original_url": "https://static.wixstatic.com/media/0ae95f_3afccfa03128432595c93c2477eafcb7~mv2.jpg",
+          "alt": "ERP Experience Hub inauguration, source gallery photograph 7",
+          "order": 7
+        }
+      ]
+    }
+  ],
+  "event_summaries": {
+    "erp-hub-launch": "22 May 2025 · Kochi Marriott Hotel. The inauguration of Bluzee ERP Experience Hub™ and its practical experience pathway.",
+    "iim-kozhikode-session": "Mukundakumar K G returns to his alma mater to explore professional character, ownership and value creation.",
+    "volvo-session": "24 March 2026 · Bangalore. Highlights from a professional-character workshop connecting mindset with real-world execution.",
+    "iit-madras-session": "A campus conversation on professional credibility, ownership and contribution beyond qualifications.",
+    "nit-calicut-session": "An interactive professional-character session with students at NIT Calicut.",
+    "mindfulness-session": "Dubai · 2023. A leadership conversation with Professor Debashis Chatterjee.",
+    "erp-hub-overview": "An introduction to the ERP Experience Hub pathway and its focus on practical contribution."
+  }
+}

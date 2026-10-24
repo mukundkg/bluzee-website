@@ -1,0 +1,11 @@
+{
+  "version": 6,
+  "date": "2026-10-24",
+  "method": "Built-in image generation",
+  "asset": {
+    "full": "dist/assets/hero-human-v6.webp",
+    "mobile": "dist/assets/hero-human-v6-small.webp",
+    "prompt": "Use case: photorealistic-natural. Asset type: Bluzee premium corporate website homepage hero background, very wide 16:9 landscape composition. Create a soothing, refined, human-centered editorial photograph of three contemporary business professionals having a thoughtful relaxed conversation around a pale oak table in a beautiful modern workspace. One South Asian woman in a muted burgundy blouse, one Middle Eastern man in a soft navy unstructured jacket, and one South Asian man in a pale blue shirt. Natural candid expressions, attentive and warmly engaged, one open laptop with no visible text, small notebook, subtle indoor greenery. They are peers collaborating, not posing for a stock photograph. All three people and their faces grouped on the RIGHT HALF, approximately x=58% to x=94%, with comfortable headroom and natural hands. LEFT 48% of the entire frame must be uncluttered softly shaded deep navy architectural wall and softly blurred glass, intentional dark negative space for a large white website headline. Soft cool daylight comes through tall blue-tinted windows from the right, slight warm reflected sunlight, airy background, soft shadows and gentle depth of field. Sophisticated navy and pale blue palette with the muted burgundy garment as small accent; calming welcoming premium mood. Camera medium wide showing people from chest/waist up seated at the table. Authentic skin texture, professional editorial photography, believable anatomy, subtle relaxed gestures. No CGI, no glowing devices, no interface overlays, no orbit graphics, no lasers, no neon stage, no text, no logos, no charts, no invented brand signs, no watermark. This is an illustrative generic team, not actual Bluzee staff or customers."
+  },
+  "scope": "Illustrative generic professionals; no claim that the scene depicts actual Bluzee staff, clients or premises."
+}

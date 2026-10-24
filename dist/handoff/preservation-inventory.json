@@ -1,0 +1,698 @@
+{
+  "audit_date": "2026-10-24",
+  "scope": "Public Bluzee website only; no account access, media replacement, live editing or publishing.",
+  "summary": {
+    "session_or_event_recordings": 6,
+    "programme_overview_videos": 1,
+    "participant_testimonials": 4,
+    "feedback_source_images": 1,
+    "method": "Rendered web text plus public HTML attributes, JSON-LD, sitemap, and HTTP endpoint checks. No transcription or identity inference from images."
+  },
+  "proof_items": [
+    {
+      "id": "volvo-session",
+      "title": "Design Your Professional Character™ at Volvo",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/",
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Mukundakumar K G, Bluzee cofounder",
+      "event_date": "2026-03-24",
+      "description_summary": "Session delivered in Bangalore; source appreciation image dates the session to 24 March 2026.",
+      "video_id": "0ae95f_b2e0c9943a474a1f93cdc7d499b0fd8b",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_b2e0c9943a474a1f93cdc7d499b0fd8b/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_b2e0c9943a474a1f93cdc7d499b0fd8bf000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/volvo-session.jpg",
+      "wix_component_ids": [
+        "comp-mnjzj4yu",
+        "comp-mnfp6evh"
+      ],
+      "proposed_destinations": [
+        "Home credibility section",
+        "Professional Workshop page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes."
+    },
+    {
+      "id": "iit-madras-session",
+      "title": "Design Your Professional Character™ at IIT Madras",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/",
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Mukundakumar K G",
+      "event_date": null,
+      "description_summary": "Professional-character session for IIT Madras students.",
+      "video_id": "0ae95f_a3fcf040e8e3415bb154f1575c56349f",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_a3fcf040e8e3415bb154f1575c56349f/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_a3fcf040e8e3415bb154f1575c56349ff000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/iit-madras-session.jpg",
+      "wix_component_ids": [
+        "comp-mlmjumbb",
+        "comp-mnjziv49"
+      ],
+      "proposed_destinations": [
+        "Home credibility section",
+        "Professional Workshop page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes."
+    },
+    {
+      "id": "iim-kozhikode-session",
+      "title": "Design Your Professional Character™ at IIM Kozhikode",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/",
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Mukundakumar K G; described on source as an IIM Kozhikode alumnus",
+      "event_date": null,
+      "description_summary": "Professional-character session at IIM Kozhikode; retain the complete recording.",
+      "video_id": "0ae95f_3236c40468b84b78bb4ab98f70f135c5",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_3236c40468b84b78bb4ab98f70f135c5/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_3236c40468b84b78bb4ab98f70f135c5f000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/iim-kozhikode-session.jpg",
+      "wix_component_ids": [
+        "comp-mlmkpxai1",
+        "comp-mnjzjud0"
+      ],
+      "proposed_destinations": [
+        "Home credibility section",
+        "Professional Workshop page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes."
+    },
+    {
+      "id": "nit-calicut-session",
+      "title": "Design Your Professional Character™ at NIT Calicut",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/",
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Mukundakumar K G; source feedback attributed to Dr. Suchand",
+      "event_date": "2026-01-08",
+      "description_summary": "Session for final-year BTech students at Bhaskara Auditorium. Source also acknowledges Dr. Vinay V Panicker, Centre for Career Development. Preserve original feedback in context.",
+      "video_id": "0ae95f_a9ff4c391815496c93136ffbf2c88ab7",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_a9ff4c391815496c93136ffbf2c88ab7/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_a9ff4c391815496c93136ffbf2c88ab7f000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/nit-calicut-session.jpg",
+      "wix_component_ids": [
+        "comp-mlmkw0jt6",
+        "comp-mnjzlhc3"
+      ],
+      "proposed_destinations": [
+        "Professional Workshop page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes."
+    },
+    {
+      "id": "erp-hub-launch",
+      "title": "Launch of Bluzee ERP Experience Hub™",
+      "proof_type": "event_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/"
+      ],
+      "speaker_or_attribution": "Event participants listed on source; not a single-speaker testimonial",
+      "event_date": "2025-05-22",
+      "description_summary": "Launch at Kochi Marriott Hotel. Source lists Dr. Tawfiq Al-Swailem, Balagopal Chandrasekhar and Barry Fourie; P. Rajeeve is described as sending blessings, not as attending. Retain adjacent launch photo gallery.",
+      "video_id": "0ae95f_e907a793ae53467b9dacb8c9428e076d",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_e907a793ae53467b9dacb8c9428e076d/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_e907a793ae53467b9dacb8c9428e076df000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/erp-hub-launch.jpg",
+      "wix_component_ids": [
+        "comp-mb2ed6hi1"
+      ],
+      "proposed_destinations": [
+        "About Us",
+        "ERP Experience Hub page",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes."
+    },
+    {
+      "id": "mindfulness-session",
+      "title": "Mindfulness leadership workshop, Dubai",
+      "proof_type": "session_recording",
+      "source_pages": [
+        "https://www.bluzee.xyz/"
+      ],
+      "speaker_or_attribution": "Professor Debashis Chatterjee, identified as Director of IIM Kozhikode at the time of the event",
+      "event_date": "2023-02-28/2023-03-01",
+      "description_summary": "Workshop at Sheraton Grand Hotel, Sheikh Zayed Road, Dubai, 28 February–1 March 2023. The original extracted poster is black; preserve the media and event gallery without inventing a historical event image.",
+      "video_id": "0ae95f_5c52483f3fcf48e496c6dd8c45c7ac0f",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_5c52483f3fcf48e496c6dd8c45c7ac0f/720p/mp4/file.mp4",
+      "http_status": 200,
+      "playback_verified": "Public MP4 endpoint accepted HEAD request; full video was not transcribed.",
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_5c52483f3fcf48e496c6dd8c45c7ac0ff000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/mindfulness-session.jpg",
+      "wix_component_ids": [
+        "comp-lxdb9c0c"
+      ],
+      "proposed_destinations": [
+        "About Us",
+        "Stories & sessions library"
+      ],
+      "preservation_action": "Keep original recording and poster; click to play with controls; retain original source-page link; no autoplay or rewritten testimonial quotes."
+    },
+    {
+      "id": "erp-hub-overview",
+      "title": "ERP Experience Hub: Start Your Journey",
+      "proof_type": "programme_overview_video",
+      "source_pages": [
+        "https://www.bluzee.xyz/experiencehub"
+      ],
+      "speaker_or_attribution": null,
+      "description_summary": "Existing portrait-format programme introduction, separate from the four participant testimonials.",
+      "video_id": "0ae95f_2954a1ba80624a5991f8bc661b538a50",
+      "original_video_url": "https://video.wixstatic.com/video/0ae95f_2954a1ba80624a5991f8bc661b538a50/720p/mp4/file.mp4",
+      "http_status": 200,
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_2954a1ba80624a5991f8bc661b538a50f000.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/erp-hub-overview.jpg",
+      "wix_component_ids": [
+        "comp-mnk080lb"
+      ],
+      "proposed_destinations": [
+        "ERP Experience Hub page"
+      ],
+      "preservation_action": "Preserve as programme overview, with click-to-play and original page link."
+    },
+    {
+      "id": "manas-aravind",
+      "title": "Manas Aravind",
+      "proof_type": "participant_video_testimonial",
+      "source_pages": [
+        "https://www.bluzee.xyz/experiencehub"
+      ],
+      "speaker_or_attribution": "Manas Aravind",
+      "description_summary": "Existing participant video; preserve name, source image and original Wix Video player. Do not rewrite participant statements or turn an individual experience into a programme guarantee.",
+      "duration_iso8601": "PT38S",
+      "upload_date": "2025-11-25T09:53:21.399Z",
+      "video_id": "0ae95f_191774e988a04d7c86598bd7338c270a",
+      "original_player_url": "https://www.bluzee.xyz/experiencehub",
+      "original_video_url": null,
+      "direct_mp4_candidate": "https://video.wixstatic.com/video/0ae95f_191774e988a04d7c86598bd7338c270a/720p/mp4/file.mp4",
+      "direct_mp4_status": 403,
+      "hls_status": 401,
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_191774e988a04d7c86598bd7338c270af002.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/manas-aravind.jpg",
+      "proposed_destinations": [
+        "ERP Experience Hub page: Participant voices",
+        "Stories & sessions library: Student stories"
+      ],
+      "preservation_action": "In the review concept, link poster to the original /experiencehub page. In Wix, retain the existing Wix Video player/collection and media IDs. Do not hard-code expiring HLS tokens.",
+      "playback_limitation": "The source JSON-LD exposes a signed HLS contentUrl, but it returned HTTP 401. Direct MP4 returned HTTP 403. Full playback and transcript were not verified."
+    },
+    {
+      "id": "muhammed-ansil-pa",
+      "title": "Muhammed Ansil PA",
+      "proof_type": "participant_video_testimonial",
+      "source_pages": [
+        "https://www.bluzee.xyz/experiencehub"
+      ],
+      "speaker_or_attribution": "Muhammed Ansil PA",
+      "description_summary": "Existing participant video; preserve name, source image and original Wix Video player. Do not rewrite participant statements or turn an individual experience into a programme guarantee.",
+      "duration_iso8601": "PT29S",
+      "upload_date": "2025-07-20T06:34:40.324Z",
+      "video_id": "0ae95f_16615424309f4151a8d90c8bd60f219a",
+      "original_player_url": "https://www.bluzee.xyz/experiencehub",
+      "original_video_url": null,
+      "direct_mp4_candidate": "https://video.wixstatic.com/video/0ae95f_16615424309f4151a8d90c8bd60f219a/720p/mp4/file.mp4",
+      "direct_mp4_status": 403,
+      "hls_status": 401,
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_16615424309f4151a8d90c8bd60f219af002.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/muhammed-ansil-pa.jpg",
+      "proposed_destinations": [
+        "ERP Experience Hub page: Participant voices",
+        "Stories & sessions library: Student stories"
+      ],
+      "preservation_action": "In the review concept, link poster to the original /experiencehub page. In Wix, retain the existing Wix Video player/collection and media IDs. Do not hard-code expiring HLS tokens.",
+      "playback_limitation": "The source JSON-LD exposes a signed HLS contentUrl, but it returned HTTP 401. Direct MP4 returned HTTP 403. Full playback and transcript were not verified."
+    },
+    {
+      "id": "anirudh-vk",
+      "title": "Anirudh VK",
+      "proof_type": "participant_video_testimonial",
+      "source_pages": [
+        "https://www.bluzee.xyz/experiencehub"
+      ],
+      "speaker_or_attribution": "Anirudh VK",
+      "description_summary": "Existing participant video; preserve name, source image and original Wix Video player. Do not rewrite participant statements or turn an individual experience into a programme guarantee.",
+      "duration_iso8601": "PT38S",
+      "upload_date": "2025-07-19T07:58:01.959Z",
+      "video_id": "0ae95f_571eafe520904e9ba7d446f06a3d4c0d",
+      "original_player_url": "https://www.bluzee.xyz/experiencehub",
+      "original_video_url": null,
+      "direct_mp4_candidate": "https://video.wixstatic.com/video/0ae95f_571eafe520904e9ba7d446f06a3d4c0d/720p/mp4/file.mp4",
+      "direct_mp4_status": 403,
+      "hls_status": 401,
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_571eafe520904e9ba7d446f06a3d4c0df002.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/anirudh-vk.jpg",
+      "proposed_destinations": [
+        "ERP Experience Hub page: Participant voices",
+        "Stories & sessions library: Student stories"
+      ],
+      "preservation_action": "In the review concept, link poster to the original /experiencehub page. In Wix, retain the existing Wix Video player/collection and media IDs. Do not hard-code expiring HLS tokens.",
+      "playback_limitation": "The source JSON-LD exposes a signed HLS contentUrl, but it returned HTTP 401. Direct MP4 returned HTTP 403. Full playback and transcript were not verified."
+    },
+    {
+      "id": "vaishnav-pm",
+      "title": "Vaishnav PM",
+      "proof_type": "participant_video_testimonial",
+      "source_pages": [
+        "https://www.bluzee.xyz/experiencehub"
+      ],
+      "speaker_or_attribution": "Vaishnav PM",
+      "description_summary": "Existing participant video; preserve name, source image and original Wix Video player. Do not rewrite participant statements or turn an individual experience into a programme guarantee.",
+      "duration_iso8601": "PT29S",
+      "upload_date": "2025-07-19T05:17:44.201Z",
+      "video_id": "0ae95f_4e16212b88184d8dbf9207f05cbdf395",
+      "original_player_url": "https://www.bluzee.xyz/experiencehub",
+      "original_video_url": null,
+      "direct_mp4_candidate": "https://video.wixstatic.com/video/0ae95f_4e16212b88184d8dbf9207f05cbdf395/720p/mp4/file.mp4",
+      "direct_mp4_status": 403,
+      "hls_status": 401,
+      "original_poster_url": "https://static.wixstatic.com/media/0ae95f_4e16212b88184d8dbf9207f05cbdf395f002.jpg",
+      "local_poster_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/vaishnav-pm.jpg",
+      "proposed_destinations": [
+        "ERP Experience Hub page: Participant voices",
+        "Stories & sessions library: Student stories"
+      ],
+      "preservation_action": "In the review concept, link poster to the original /experiencehub page. In Wix, retain the existing Wix Video player/collection and media IDs. Do not hard-code expiring HLS tokens.",
+      "playback_limitation": "The source JSON-LD exposes a signed HLS contentUrl, but it returned HTTP 401. Direct MP4 returned HTTP 403. Full playback and transcript were not verified."
+    },
+    {
+      "id": "volvo-feedback",
+      "title": "Volvo appreciation letter",
+      "proof_type": "source_feedback_image",
+      "source_pages": [
+        "https://www.bluzee.xyz/workshop"
+      ],
+      "speaker_or_attribution": "Dr. Ranjith T P, Head of Talent Acquisition, Volvo Group India Pvt Ltd.",
+      "description_summary": "Appreciation email screenshot referring to the 24 March 2026 Bangalore session. Preserve the source image; do not rewrite the testimonial as new copy.",
+      "original_image_url": "https://static.wixstatic.com/media/0ae95f_25f841b3599e4078b0a51ef51fa3732e~mv2.png",
+      "local_image_path": "/workspace/scratch/a23a2b861946/website-research/proof-assets/volvo-feedback.png",
+      "proposed_destinations": [
+        "Professional Workshop page: Original feedback"
+      ],
+      "preservation_action": "Show the original source image with accessible link to source page; keep any source redactions intact."
+    }
+  ],
+  "navigation_and_redirect_inventory": [
+    {
+      "label": "Home",
+      "original_url": "https://www.bluzee.xyz/",
+      "proposed_destination": "/"
+    },
+    {
+      "label": "About Us",
+      "original_url": "https://www.bluzee.xyz/about-us",
+      "proposed_destination": "/about"
+    },
+    {
+      "label": "Services",
+      "original_url": "https://www.bluzee.xyz/services-3",
+      "proposed_destination": "/offerings"
+    },
+    {
+      "label": "ERP Experience Hub",
+      "original_url": "https://www.bluzee.xyz/experiencehub",
+      "proposed_destination": "/services/erp-experience-hub"
+    },
+    {
+      "label": "SAP Capabilities",
+      "original_url": "https://www.bluzee.xyz/sap-capabilities",
+      "proposed_destination": "Retain legacy capability URL, link from offerings/footer"
+    },
+    {
+      "label": "Design Your Professional Character™",
+      "original_url": "https://www.bluzee.xyz/workshop",
+      "proposed_destination": "/services/design-your-professional-character"
+    },
+    {
+      "label": "Contact",
+      "original_url": "https://www.bluzee.xyz/contact",
+      "proposed_destination": "/contact"
+    },
+    {
+      "label": "Careers",
+      "original_url": "https://www.bluzee.xyz/careers",
+      "proposed_destination": "Retain /careers from footer"
+    },
+    {
+      "label": "Industries",
+      "original_url": "https://www.bluzee.xyz/team-4",
+      "proposed_destination": "Retain or map to About industries section"
+    },
+    {
+      "label": "Odoo Implementation",
+      "original_url": "https://www.bluzee.xyz/general-7",
+      "proposed_destination": "/services/odoo-erp-implementation"
+    },
+    {
+      "label": "Implementation methodology",
+      "original_url": "https://www.bluzee.xyz/about-3",
+      "proposed_destination": "Odoo implementation methodology section; redirect if page is consolidated"
+    },
+    {
+      "label": "Legacy Experience Hub alias",
+      "original_url": "https://www.bluzee.xyz/general-7-1",
+      "proposed_destination": "Already redirects to /experiencehub"
+    },
+    {
+      "label": "ZATCA",
+      "original_url": "https://www.bluzee.xyz/zatca",
+      "proposed_destination": "Retain legacy capability URL, validate copy before promoting"
+    },
+    {
+      "label": "Blog",
+      "original_url": "https://www.bluzee.xyz/blog",
+      "proposed_destination": "Retain Wix Blog archive and post URLs"
+    },
+    {
+      "label": "Imprint",
+      "original_url": "https://www.bluzee.xyz/imprint",
+      "proposed_destination": "Retain original link"
+    },
+    {
+      "label": "Non-Liability",
+      "original_url": "https://www.bluzee.xyz/non-liability",
+      "proposed_destination": "Retain original link"
+    },
+    {
+      "label": "Copyright Notice",
+      "original_url": "https://www.bluzee.xyz/copyright-notice",
+      "proposed_destination": "Retain original link"
+    },
+    {
+      "label": "Privacy Policy",
+      "original_url": "https://www.bluzee.xyz/privacy-policy",
+      "proposed_destination": "Retain original link"
+    },
+    {
+      "label": "Legal Disclaimer",
+      "original_url": "https://www.bluzee.xyz/legal-disclaimer",
+      "proposed_destination": "Retain original link"
+    },
+    {
+      "label": "Quality Policy",
+      "original_url": "https://www.bluzee.xyz/quality-policy",
+      "proposed_destination": "Retain original link"
+    }
+  ],
+  "external_and_download_links": [
+    {
+      "label": "Download",
+      "url": "https://www.bluzee.xyz/_files/ugd/0ae95f_60106f199a8d4a958d1ccda3b803c8d8.pdf",
+      "source_page": "https://www.bluzee.xyz/",
+      "preserve": true,
+      "notes": "Retain original destination."
+    },
+    {
+      "label": "WhatsApp : +966 57 066 8147",
+      "url": "https://wa.me/966570668147",
+      "source_page": "https://www.bluzee.xyz/",
+      "preserve": true,
+      "notes": "Retain original link; contact details require current-approved contact source."
+    },
+    {
+      "label": "News & Events",
+      "url": "https://www.instagram.com/wix/",
+      "source_page": "https://www.bluzee.xyz/",
+      "preserve": false,
+      "notes": "Erroneous Wix Instagram destination; do not propagate."
+    },
+    {
+      "label": "Unlabelled social icon",
+      "url": "https://www.facebook.com/profile.php?id=61550284440978",
+      "source_page": "https://www.bluzee.xyz/",
+      "preserve": true,
+      "notes": "Retain original destination."
+    },
+    {
+      "label": "Unlabelled social icon",
+      "url": "https://www.linkedin.com/company/bluzee/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BaVltXKMgRD2hKkO7n84OZQ%3D%3D",
+      "source_page": "https://www.bluzee.xyz/",
+      "preserve": true,
+      "notes": "Retain original destination."
+    },
+    {
+      "label": "Begin Your Journey.",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe_-cqcH5pm3UGperj6oCo5FR4FtxvNw2grV2jU3eMErXBg4A/viewform",
+      "source_page": "https://www.bluzee.xyz/workshop",
+      "preserve": true,
+      "notes": "Retain original destination."
+    },
+    {
+      "label": "Click Here",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe_-cqcH5pm3UGperj6oCo5FR4FtxvNw2grV2jU3eMErXBg4A/viewform?usp=header",
+      "source_page": "https://www.bluzee.xyz/workshop",
+      "preserve": true,
+      "notes": "Retain original destination."
+    },
+    {
+      "label": "Unlabelled social icon",
+      "url": "https://www.linkedin.com/in/mukundakumarkg/",
+      "source_page": "https://www.bluzee.xyz/workshop",
+      "preserve": true,
+      "notes": "Retain original destination."
+    },
+    {
+      "label": "Register Now!",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSco5fh9FnfFTqXFRLvZSqKmTJ3tH-qIWaAPSqBX6DNfvHWSNA/viewform?usp=dialog",
+      "source_page": "https://www.bluzee.xyz/experiencehub",
+      "preserve": true,
+      "notes": "Retain original destination."
+    },
+    {
+      "label": "Click Here",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSco5fh9FnfFTqXFRLvZSqKmTJ3tH-qIWaAPSqBX6DNfvHWSNA/viewform?usp=header",
+      "source_page": "https://www.bluzee.xyz/experiencehub",
+      "preserve": true,
+      "notes": "Retain original destination."
+    }
+  ],
+  "all_sitemap_urls": [
+    {
+      "sitemap": "https://www.bluzee.xyz/blog-posts-sitemap.xml",
+      "urls": [
+        "https://www.bluzee.xyz/post/bluzee-signs-mou-with-rset",
+        "https://www.bluzee.xyz/post/driving-digital-transformation",
+        "https://www.bluzee.xyz/post/successful-big-companies-using-odoo-erp",
+        "https://www.bluzee.xyz/post/odoo-basics",
+        "https://www.bluzee.xyz/post/design-your-professional-character",
+        "https://www.bluzee.xyz/post/bluzee-erp-experience-hub-goes-live-operational-from-26th-may-2025",
+        "https://www.bluzee.xyz/post/empowering-saudi-entrepreneurs",
+        "https://www.bluzee.xyz/post/unlocking-sap-expertise-in-india-a-deep-dive-into-delivery-capabilities",
+        "https://www.bluzee.xyz/post/adapting-to-the-future",
+        "https://www.bluzee.xyz/post/bluzee-india-mega-recruitment-drive-for-freshers-17th-may-2025"
+      ]
+    },
+    {
+      "sitemap": "https://www.bluzee.xyz/blog-categories-sitemap.xml",
+      "urls": [
+        "https://www.bluzee.xyz/blog"
+      ]
+    },
+    {
+      "sitemap": "https://www.bluzee.xyz/portfolio-projects-sitemap.xml",
+      "urls": [
+        "https://www.bluzee.xyz/portfolio-collections/my-portfolio/contemporary-homes",
+        "https://www.bluzee.xyz/portfolio-collections/my-portfolio/seasonal-lookbook",
+        "https://www.bluzee.xyz/portfolio-collections/my-portfolio/editorial-portraits",
+        "https://www.bluzee.xyz/portfolio-collections/my-portfolio/modern-interiors",
+        "https://www.bluzee.xyz/portfolio-collections/my-portfolio/design-objects",
+        "https://www.bluzee.xyz/portfolio-collections/my-portfolio/branding-campaign"
+      ]
+    },
+    {
+      "sitemap": "https://www.bluzee.xyz/portfolio-collections-sitemap.xml",
+      "urls": [
+        "https://www.bluzee.xyz/portfolio-collections/my-portfolio"
+      ]
+    },
+    {
+      "sitemap": "https://www.bluzee.xyz/pages-sitemap.xml",
+      "urls": [
+        "https://www.bluzee.xyz/team-4",
+        "https://www.bluzee.xyz/quality-policy",
+        "https://www.bluzee.xyz/careers",
+        "https://www.bluzee.xyz/non-liability",
+        "https://www.bluzee.xyz/zatca",
+        "https://www.bluzee.xyz/experiencehub",
+        "https://www.bluzee.xyz/blog",
+        "https://www.bluzee.xyz/general-7-1",
+        "https://www.bluzee.xyz/imprint",
+        "https://www.bluzee.xyz/sap-capabilities",
+        "https://www.bluzee.xyz/portfolio",
+        "https://www.bluzee.xyz/about-us",
+        "https://www.bluzee.xyz/workshop",
+        "https://www.bluzee.xyz/privacy-policy",
+        "https://www.bluzee.xyz/about-3",
+        "https://www.bluzee.xyz/services-3",
+        "https://www.bluzee.xyz/general-7",
+        "https://www.bluzee.xyz/legal-disclaimer",
+        "https://www.bluzee.xyz/contact",
+        "https://www.bluzee.xyz",
+        "https://www.bluzee.xyz/copyright-notice"
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "id": "student-playback",
+      "severity": "implementation",
+      "finding": "Four student videos require their original Wix Video players; source tokenized HLS cannot be used as a stable embed.",
+      "action": "Preserve player/media IDs and original source page link."
+    },
+    {
+      "id": "bad-instagram",
+      "severity": "content",
+      "finding": "News & Events footer points to instagram.com/wix/.",
+      "action": "Use the existing /blog destination for News & Events; confirm genuine Bluzee Instagram before adding."
+    },
+    {
+      "id": "broken-inauguration-post",
+      "severity": "link",
+      "finding": "Homepage /post/bluzee-erp-experience-hub-inauguration-22nd-may-2025 returns 404.",
+      "action": "Keep the genuine launch recording/gallery and link to validated go-live post; repair old slug in Wix."
+    },
+    {
+      "id": "legacy-php",
+      "severity": "link",
+      "finding": "Some news cards link to https://bluzee.xyz/news-detail.php; www endpoint returns 400.",
+      "action": "Map each card to its real Wix post URL."
+    },
+    {
+      "id": "old-product-name",
+      "severity": "content",
+      "finding": "Live homepage still contains Bluzee Pilora.",
+      "action": "Use Dimaq in new product copy; review old navigation/metadata on migration."
+    },
+    {
+      "id": "about-placeholders",
+      "severity": "content",
+      "finding": "About page includes placeholder copy and duplicated talent text.",
+      "action": "Use source-supported replacement copy, not the placeholders."
+    },
+    {
+      "id": "methodology-third-party",
+      "severity": "content",
+      "finding": "Legacy /about-3 names Captivea in its implementation section.",
+      "action": "Do not reproduce this paragraph as Bluzee copy; replace with approved Bluzee methodology."
+    },
+    {
+      "id": "portfolio-template",
+      "severity": "content",
+      "finding": "/portfolio is an unfilled generic Wix portfolio; sitemap includes six unrelated design/photography project names.",
+      "action": "Preserve a crawl record but do not display them as Bluzee client work; review/remove only during approved Wix migration."
+    },
+    {
+      "id": "legal-copy",
+      "severity": "review",
+      "finding": "Several legacy policy pages contain generic Termly.io language and 2017 dating.",
+      "action": "Retain existing links for review concept; separately review actual legal copy before live rollout."
+    },
+    {
+      "id": "contact-source",
+      "severity": "content",
+      "finding": "Legacy footer has Saudi/UK and other phone details that may differ from latest approved brochures.",
+      "action": "Use current approved letterhead/brochure contacts in redesign; retain /contact URL."
+    },
+    {
+      "id": "proof-framing",
+      "severity": "content",
+      "finding": "Institutional sessions, Odoo brand-adoption examples and an SAP strategic alliance are different proof types.",
+      "action": "Do not imply institutional endorsement, client status, job guarantees or Bluzee-owned SAP Gold status."
+    },
+    {
+      "id": "motion-and-media",
+      "severity": "implementation",
+      "finding": "Existing recordings include large MP4 files; one original poster is black.",
+      "action": "Use posters and click-to-play preload=none, responsive layouts, accessible controls; keep originals rather than invent event imagery."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.bluzee.xyz/",
+      "web_ref": "turn15view0"
+    },
+    {
+      "url": "https://www.bluzee.xyz/about-us",
+      "web_ref": "turn16view0"
+    },
+    {
+      "url": "https://www.bluzee.xyz/experiencehub",
+      "web_ref": "turn16view1"
+    },
+    {
+      "url": "https://www.bluzee.xyz/workshop",
+      "web_ref": "turn16view2"
+    },
+    {
+      "url": "https://www.bluzee.xyz/services-3",
+      "web_ref": "turn16view3"
+    },
+    {
+      "url": "https://www.bluzee.xyz/sap-capabilities",
+      "web_ref": "turn20view0"
+    },
+    {
+      "url": "https://www.bluzee.xyz/contact",
+      "web_ref": "turn20view1"
+    },
+    {
+      "url": "https://www.bluzee.xyz/careers",
+      "web_ref": "turn20view2"
+    },
+    {
+      "url": "https://www.bluzee.xyz/team-4",
+      "web_ref": "turn20view3"
+    },
+    {
+      "url": "https://www.bluzee.xyz/sitemap.xml",
+      "local_evidence": "sitemap-inventory.json"
+    },
+    {
+      "url": "https://www.bluzee.xyz/general-7",
+      "local_evidence": "extra-page-audit.json"
+    },
+    {
+      "url": "https://www.bluzee.xyz/about-3",
+      "local_evidence": "extra-page-audit.json"
+    },
+    {
+      "url": "https://www.bluzee.xyz/zatca",
+      "local_evidence": "extra-page-audit.json"
+    },
+    {
+      "url": "https://www.bluzee.xyz/portfolio",
+      "local_evidence": "extra-page-audit.json"
+    }
+  ],
+  "raw_evidence_files": [
+    "raw-media-inventory.json",
+    "extra-page-audit.json",
+    "sitemap-inventory.json",
+    "media-url-checks.json",
+    "testimonial-hls-checks.json",
+    "downloaded-proof-assets.json"
+  ],
+  "limitation": "Only publicly discoverable content was audited. Private CMS entries, hidden/unpublished pages, original video transcripts, consent records and Wix account media permissions were not accessible. External form functionality and full recording playback were not tested."
+}
