@@ -1,0 +1,17 @@
+.enquiry-fields{border:0;margin:0;padding:0;min-width:0}
+.enquiry-consent{display:flex;align-items:flex-start;gap:12px;margin:20px 0 26px;color:#193b53;font-size:13px;line-height:1.65;cursor:pointer}
+.v8-design .direct-enquiry h2{font-size:clamp(28px,3vw,42px);line-height:1.15;margin-bottom:28px}
+.v8-design .direct-enquiry .form-field input,.v8-design .direct-enquiry .form-field select,.v8-design .direct-enquiry .form-field textarea{font-size:16px}
+.v8-design .direct-enquiry .form-field label{font-size:13px}
+.v8-design .direct-enquiry .form-note,.v8-design .direct-enquiry .recipient-note{font-size:13px;color:#36536a;line-height:1.7}
+.enquiry-consent input{width:19px;height:19px;flex:0 0 19px;margin:3px 0 0;accent-color:#4a8aff}
+.direct-enquiry a:not(.btn){text-decoration:underline;text-underline-offset:3px}
+.direct-enquiry .btn:disabled{opacity:.6;cursor:wait}
+.enquiry-status{padding:20px;margin-top:22px;border:1px solid #537192;border-radius:8px;background:#0d233e;color:#edf5ff;font-size:15px;line-height:1.65;overflow-wrap:anywhere;scroll-margin-block:120px}
+.enquiry-status[data-state="success"]{border-color:#80c9b5;background:#0e3035}
+.enquiry-status[data-state="error"]{border-color:#de8996;background:#391a2a}
+.enquiry-recovery{margin-top:16px;display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+.enquiry-copy-status{font-size:13px;color:#193b53;flex-basis:100%;margin:0}
+.enquiry-another{margin-top:18px}
+.v8-design .wrap.enquiry-privacy-copy{max-width:880px}.enquiry-privacy-copy h2{font-size:clamp(25px,4vw,36px);margin-top:45px;margin-bottom:16px}.enquiry-privacy-copy h2:first-child{margin-top:0}.enquiry-privacy-copy p{line-height:1.85;color:#304d69;overflow-wrap:anywhere}.enquiry-privacy-copy a:not(.btn){color:#123d74;text-decoration:underline;text-underline-offset:3px}.enquiry-privacy-copy .btn{margin-top:24px}
+@media(max-width:560px){.direct-enquiry .enquiry-consent{font-size:13px}.enquiry-recovery .btn{width:100%;white-space:normal;text-align:center}.enquiry-status{padding:16px}.enquiry-privacy-copy p{font-size:15px}}

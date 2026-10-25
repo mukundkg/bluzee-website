@@ -56,6 +56,6 @@ testimonials=[a for t,a in pages['testimonials/index.html'].elements if 'data-vi
 if len(testimonials)!=5: issues.append('Expected five testimonial player controls')
 legacy={v for v in video_urls if 'wixstatic.com' in v}
 if legacy: issues.append(f'Unexpected legacy video dependencies: {legacy}')
-if len(pages)!=20: issues.append('Expected 20 built HTML pages')
+if len(pages)!=21: issues.append('Expected 21 built HTML pages, including the enquiry privacy notice')
 print(json.dumps({'pages':len(pages),'inventory_files':len(inventory),'mapped_objects':len(used),'mapped_videos':len(CONFIG['videos']),'testimonials':len(testimonials),'remaining_legacy_video_count':len(legacy),'issues':issues},indent=2))
 assert not issues

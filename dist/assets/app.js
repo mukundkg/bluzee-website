@@ -37,14 +37,8 @@
   $('.dialog-close')?.addEventListener('click',()=>dialog.close());
   dialog?.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});
   dialog?.addEventListener('close',()=>{video.pause();video.removeAttribute('src');video.load();document.body.classList.remove('modal-open');trigger?.focus();});
-  const form=$('#enquiry-form');
-  if(form){const selected=new URLSearchParams(location.search).get('offering');const match=[...form.offering.options].find(o=>o.value.replaceAll('™','')===(selected||'').replaceAll('™',''));if(match)form.offering.value=match.value;let draft='';
-    const recipient=()=>/DealTailor|Dimaq|AI Products/i.test(form.offering.value)?'ai@bluzee.xyz':'inbox@bluzee.xyz';
-    const updateRecipient=()=>{const target=recipient();$('.recipient-note').innerHTML=(target==='ai@bluzee.xyz'?'AI product enquiries: ':'General enquiries: ')+'<strong>'+target+'</strong>'+(target==='ai@bluzee.xyz'?' · copy to inbox@bluzee.xyz':'');$('.draft-output').hidden=true;};
-    form.offering.addEventListener('change',updateRecipient);updateRecipient();
-    form.addEventListener('submit',e=>{e.preventDefault();if(!form.reportValidity())return;const f=new FormData(form);const subject='Bluzee enquiry: '+f.get('offering');draft=`Hello Bluzee,\n\nI would like to discuss ${f.get('offering')}.\n\n${String(f.get('message')).trim()}\n\nName: ${String(f.get('name')).trim()}\nEmail: ${String(f.get('email')).trim()}\nOrganisation: ${String(f.get('organisation')).trim()||'Not specified'}`;$('.draft-text').textContent=draft;const target=recipient();$('.draft-link').href='mailto:'+target+'?'+(target==='ai@bluzee.xyz'?'cc=inbox%40bluzee.xyz&':'')+'subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(draft);$('.draft-recipient').textContent='To: '+target+(target==='ai@bluzee.xyz'?' · Copy: inbox@bluzee.xyz':'');$('.draft-output').hidden=false;$('.copy-status').textContent='';$('.draft-output').scrollIntoView({behavior:reduced.matches||paused?'instant':'smooth',block:'center'});});
-    $('.copy-draft').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(draft);$('.copy-status').textContent='Message copied. Paste it into your email app.';}catch(_){$('.copy-status').textContent='Please select and copy the message above.';}});
-  }
+  // Direct website enquiries are handled by enquiry.js on the contact page.
+
 })();
 /* Motion layer: event-driven, offscreen-aware and removable by the visitor. */
 (() => {

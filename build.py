@@ -154,11 +154,14 @@ from horizon_v9 import install as install_v9
 install_v9(globals())
 from distinct_v10 import install as install_v10
 install_v10(globals())
+from enquiry_forms import install as install_enquiry
+install_enquiry(globals())
 
 write('index.html','Intelligence. Put to work.','Private AI products, ERP consulting services and the Bluzee Academy of Experience.',homepage,'home')
 write('about/index.html','About Us','Enterprise consulting, practical AI and experience-led development.',about,'about')
 write('offerings/index.html','Our Offerings','Explore Bluzee private AI products, ERP services, experience hubs and professional workshop.',listing,'offerings')
 write('contact/index.html','Contact Us','Contact Bluzee to discuss your business challenge or experience pathway.',contact_page,'contact')
+write('enquiry-privacy/index.html','Website enquiry privacy notice','How Bluzee handles website enquiries submitted through Formspree.',enquiry_privacy)
 write('events/index.html','Events','Original Bluzee launch, workshop and leadership recordings, plus event stories.',events,'events')
 write('testimonials/index.html','Testimonials','Original participant feedback, written appreciation and Bluzee partner identities.',testimonials,'testimonials')
 write('stories/index.html','Stories & Sessions','Original Bluzee session recordings, student voices and written feedback.',stories)

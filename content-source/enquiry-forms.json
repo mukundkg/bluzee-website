@@ -1,0 +1,5 @@
+{
+  "general": {"endpoint": "https://formspree.io/f/mbgggrko", "recipient": "inbox@bluzee.xyz"},
+  "ai": {"endpoint": "https://formspree.io/f/mjyyyboo", "recipient": "ai@bluzee.xyz"},
+  "ai_offerings": ["Bluzee DealTailor", "Bluzee Dimaq"]
+}
