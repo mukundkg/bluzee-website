@@ -54,9 +54,8 @@ for key in CONFIG['videos'].values():
     if media_url(key) not in video_urls: issues.append(f'No player for {key}')
 testimonials=[a for t,a in pages['testimonials/index.html'].elements if 'data-video' in a]
 if len(testimonials)!=5: issues.append('Expected five testimonial player controls')
-launch='https://video.wixstatic.com/video/0ae95f_e907a793ae53467b9dacb8c9428e076d/720p/mp4/file.mp4'
 legacy={v for v in video_urls if 'wixstatic.com' in v}
-if legacy!={launch}: issues.append(f'Unexpected legacy video dependencies: {legacy}')
+if legacy: issues.append(f'Unexpected legacy video dependencies: {legacy}')
 if len(pages)!=20: issues.append('Expected 20 built HTML pages')
 print(json.dumps({'pages':len(pages),'inventory_files':len(inventory),'mapped_objects':len(used),'mapped_videos':len(CONFIG['videos']),'testimonials':len(testimonials),'remaining_legacy_video_count':len(legacy),'issues':issues},indent=2))
 assert not issues
