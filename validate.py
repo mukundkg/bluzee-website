@@ -22,7 +22,7 @@ for page in pages:
  for ref in p.refs:
   x=urlsplit(ref)
   if x.scheme or x.netloc:continue
-  path=(page.parent/unquote(x.path)).resolve() if x.path else page
+  path=((root/unquote(x.path).lstrip('/')) if x.path.startswith('/') else (page.parent/unquote(x.path))).resolve() if x.path else page
   if not path.exists():issues.append([str(page),'missing',ref])
   elif x.fragment and path.suffix=='.html':
    target=Parser();target.feed(path.read_text())

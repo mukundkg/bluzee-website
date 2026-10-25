@@ -1,0 +1,25 @@
+# Legacy Wix routes preserved for the new Cloudflare Pages website.
+/about-us /about/ 301
+/about-us/ /about/ 301
+/services-3 /offerings/ 301
+/services-3/ /offerings/ 301
+/portfolio /offerings/ 301
+/portfolio/ /offerings/ 301
+/experiencehub /services/erp-experience-hub/ 301
+/experiencehub/ /services/erp-experience-hub/ 301
+/general-7-1 /services/erp-experience-hub/ 301
+/general-7-1/ /services/erp-experience-hub/ 301
+/workshop /services/professional-character/ 301
+/workshop/ /services/professional-character/ 301
+/general-7 /services/odoo-erp-implementation/ 301
+/general-7/ /services/odoo-erp-implementation/ 301
+/about-3 /services/odoo-erp-implementation/ 301
+/about-3/ /services/odoo-erp-implementation/ 301
+/post/bluzee-erp-experience-hub-inauguration-22nd-may-2025 /events/#erp-hub-launch 301
+/post/bluzee-erp-experience-hub-inauguration-22nd-may-2025/ /events/#erp-hub-launch 301
+/_files/ugd/0ae95f_60106f199a8d4a958d1ccda3b803c8d8.pdf /resources/Bluzee_ERP_Implementation_Methodology_Guide_July_2024.pdf 301
+/_files/ugd/933a8b_3b8a6118ca3b4a99b09c5c9748f97139.pdf /resources/Bluzee_SAP_Capability_Snapshot.pdf 301
+/design-notes /about/ 301
+/design-notes/ /about/ 301
+/design-notes/* /about/ 301
+/handoff/* /about/ 301

@@ -1,2 +1,5 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /design-notes/
+Disallow: /handoff/
+Sitemap: https://www.bluzee.xyz/sitemap.xml

@@ -168,3 +168,5 @@ write('stories/index.html','Stories & Sessions','Original Bluzee session recordi
 for o in OFFERINGS:write(href(o),o['name'],o['intro'],lambda o=o:offering(o),'offerings')
 write('design-notes/index.html','Concept review & Wix handoff','Sitemap, design direction, content mapping and practical Wix implementation notes.',notes)
 print('Built',len(list(DIST.rglob('*.html'))),'pages')
+from launch_ready import finalise as prepare_launch
+prepare_launch(globals())
