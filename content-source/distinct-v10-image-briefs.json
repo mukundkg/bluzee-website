@@ -1,0 +1,127 @@
+[
+  {
+    "key": "dealtailor",
+    "prompt": "Use case: ads-marketing. Asset type: premium enterprise website hero photograph/CG hybrid, wide 16:9 landscape, 1672x941 or comparable. Art direction: cinematic dark midnight navy and cobalt, restrained ruby-red highlights, premium physical textures, controlled low-key lighting, sophisticated and calm. Keep the LEFT 42% mostly dark and visually quiet for white typography; tell the visual story in the RIGHT 58%, with a strong focal subject. Rich detail in shadows without crushed blacks. No bright white sky, no large overexposed areas, no stock-business handshake, no readable text, no labels, no logos, no watermarks, no fake product interface. Conceptual marketing scene, not an actual client or employee photograph. An elegant dark sales conversation studio. At right, a professional Indian woman viewed in three-quarter profile holds a slim smartphone; a finely crafted sculptural ribbon of translucent indigo conversation tiles travels from the phone toward a single ruby-red glass waypoint above the desk, suggesting an enquiry becoming a qualified next action. Warm natural face, realistic hands, deep navy tailored clothing. City dusk through smoked glass, subtle cyan edge light and burgundy reflections, humane intelligent lead engagement. Editorial photography with subtle physically rendered conceptual objects.",
+    "role": "offering hero",
+    "asset": "dist/assets/v10/dealtailor.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "dimaq",
+    "prompt": "Use case: ads-marketing. Asset type: premium enterprise website hero photograph/CG hybrid, wide 16:9 landscape, 1672x941 or comparable. Art direction: cinematic dark midnight navy and cobalt, restrained ruby-red highlights, premium physical textures, controlled low-key lighting, sophisticated and calm. Keep the LEFT 42% mostly dark and visually quiet for white typography; tell the visual story in the RIGHT 58%, with a strong focal subject. Rich detail in shadows without crushed blacks. No bright white sky, no large overexposed areas, no stock-business handshake, no readable text, no labels, no logos, no watermarks, no fake product interface. Conceptual marketing scene, not an actual client or employee photograph. A sophisticated executive decision room at night. At right, a dark round table holds a miniature luminous enterprise landscape: separate translucent planes suggesting finance, operations and supply, converging toward a precise crimson central decision marker. A small business leader is seen in profile contemplating the connected information. Rich blue glass, restrained fine data lines, architectural scale and evidence brought together. Dark background, no screens with dashboards, no sphere or robot head. Cinematic premium enterprise intelligence.",
+    "role": "offering hero",
+    "asset": "dist/assets/v10/dimaq.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "qsrpro",
+    "prompt": "Use case: ads-marketing. Asset type: premium enterprise website hero photograph/CG hybrid, wide 16:9 landscape, 1672x941 or comparable. Art direction: cinematic dark midnight navy and cobalt, restrained ruby-red highlights, premium physical textures, controlled low-key lighting, sophisticated and calm. Keep the LEFT 42% mostly dark and visually quiet for white typography; tell the visual story in the RIGHT 58%, with a strong focal subject. Rich detail in shadows without crushed blacks. No bright white sky, no large overexposed areas, no stock-business handshake, no readable text, no labels, no logos, no watermarks, no fake product interface. Conceptual marketing scene, not an actual client or employee photograph. A premium contemporary quick-service restaurant open kitchen viewed from the side at evening. Right side shows two professional chefs in immaculate dark navy aprons coordinating a plated meal across a stainless-steel service pass; a discreet unbranded order screen, labelled-free takeaway packages and organised ingredients suggest ordering, kitchen coordination and inventory. A beautiful row of ruby-red heat lamps, copper warmth kept subtle, blue architectural lighting. Realistic kitchen operational photography, hygienic, appetising, efficient. Left side deep navy out of focus restaurant space.",
+    "role": "offering hero",
+    "asset": "dist/assets/v10/qsrpro.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "tradesphere",
+    "prompt": "Use case: ads-marketing. Asset type: premium enterprise website hero photograph/CG hybrid, wide 16:9 landscape, 1672x941 or comparable. Art direction: cinematic dark midnight navy and cobalt, restrained ruby-red highlights, premium physical textures, controlled low-key lighting, sophisticated and calm. Keep the LEFT 42% mostly dark and visually quiet for white typography; tell the visual story in the RIGHT 58%, with a strong focal subject. Rich detail in shadows without crushed blacks. No bright white sky, no large overexposed areas, no stock-business handshake, no readable text, no labels, no logos, no watermarks, no fake product interface. Conceptual marketing scene, not an actual client or employee photograph. A dramatic premium wholesale distribution centre at blue hour. Right side shows tall organised warehouse shelves, a few neat cartons on a pallet, one warehouse professional with a tablet and a distant forklift. An elegant crimson illuminated path on the concrete floor leads from inventory shelves toward an open loading bay with a truck outside, suggesting stock-to-order fulfilment. Architectural perspective and physically plausible warehouse scale. Moody navy and slate, subdued ruby highlights, crisp merchandise shapes without text, no messy clutter.",
+    "role": "offering hero",
+    "asset": "dist/assets/v10/tradesphere.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "nexus",
+    "prompt": "Use case: ads-marketing. Asset type: premium enterprise website hero photograph/CG hybrid, wide 16:9 landscape, 1672x941 or comparable. Art direction: cinematic dark midnight navy and cobalt, restrained ruby-red highlights, premium physical textures, controlled low-key lighting, sophisticated and calm. Keep the LEFT 42% mostly dark and visually quiet for white typography; tell the visual story in the RIGHT 58%, with a strong focal subject. Rich detail in shadows without crushed blacks. No bright white sky, no large overexposed areas, no stock-business handshake, no readable text, no labels, no logos, no watermarks, no fake product interface. Conceptual marketing scene, not an actual client or employee photograph. A monumental sculptural interpretation of enterprise connectivity. At right, several distinct dark brushed-metal and blue-glass architectural modules are joined by beautiful braided fibre-optic bridges and suspended ruby-red connectors. The connection itself is the hero: visible clean handoffs across separated systems, not one generic computer chip. Shot like an architectural luxury installation in a vast midnight navy room with shallow reflecting floor. Fine blue light travelling through glass fibres, small red junctions, tactile brushed titanium, restrained volumetric light.",
+    "role": "offering hero",
+    "asset": "dist/assets/v10/nexus.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "consulting",
+    "prompt": "Use case: ads-marketing. Asset: wide 16:9 premium website background, cinematic editorial photography with carefully designed conceptual details. Deep midnight navy, muted steel blue, burgundy-red accents, no bright white background, no blown highlights. Main subject and action on the right 55%; left 45% shadowy and uncluttered for readable white text. Rich tactile materials, credible proportions, elegant lighting, high-end camera quality. No readable text, no logos, no watermark. People are illustrative, not actual Bluzee staff or clients. ERP scope planning: a single senior Indian business consultant at a dark drafting table carefully selects a small set of blue architectural modules from many, placing only the relevant modules onto a precise phased roadmap made of thin red tracks. Unneeded modules remain neatly out of focus off the map. Close three-quarter view of hands and thoughtful profile, navy architecture, restrained red desk lamp. The metaphor is choosing only what the business needs and prioritising continuity.",
+    "role": "service hero",
+    "asset": "dist/assets/v10/consulting.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "implementation",
+    "prompt": "Use case: ads-marketing. Asset: wide 16:9 premium website background, cinematic editorial photography with carefully designed conceptual details. Deep midnight navy, muted steel blue, burgundy-red accents, no bright white background, no blown highlights. Main subject and action on the right 55%; left 45% shadowy and uncluttered for readable white text. Rich tactile materials, credible proportions, elegant lighting, high-end camera quality. No readable text, no logos, no watermark. People are illustrative, not actual Bluzee staff or clients. ERP implementation and weekly customer playback: two process owners and a consultant reviewing a working business solution together in an intimate dark studio. Right-side composition shows one person demonstrating a clearly unlabelled blue workflow on a large display while the other two actively respond, with a small desktop model of connected production steps. Candid collaboration, listening and validation. Soft blue screen light, burgundy acoustic walls, no generic boardroom or glowing holograms.",
+    "role": "service hero",
+    "asset": "dist/assets/v10/implementation.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "talent",
+    "prompt": "Use case: ads-marketing. Asset: wide 16:9 premium website background, cinematic editorial photography with carefully designed conceptual details. Deep midnight navy, muted steel blue, burgundy-red accents, no bright white background, no blown highlights. Main subject and action on the right 55%; left 45% shadowy and uncluttered for readable white text. Rich tactile materials, credible proportions, elegant lighting, high-end camera quality. No readable text, no logos, no watermark. People are illustrative, not actual Bluzee staff or clients. ERP talent embedded in a delivery team: a cinematic side view down a row of three diverse professional specialists working at adjacent dark desks, each with a distinct activity\u2014reviewing a process diagram, discussing a code change, checking a test result. The nearest specialist in navy and burgundy is sharply focused, colleagues in natural depth. Dark glass office, steel blue monitors with only indistinct marks, believable teamwork and expertise, no generic posed group photo.",
+    "role": "service hero",
+    "asset": "dist/assets/v10/talent.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "support",
+    "prompt": "Use case: ads-marketing. Asset: wide 16:9 premium website background, cinematic editorial photography with carefully designed conceptual details. Deep midnight navy, muted steel blue, burgundy-red accents, no bright white background, no blown highlights. Main subject and action on the right 55%; left 45% shadowy and uncluttered for readable white text. Rich tactile materials, credible proportions, elegant lighting, high-end camera quality. No readable text, no logos, no watermark. People are illustrative, not actual Bluzee staff or clients. ERP production support: one focused support engineer in a sophisticated dark operations room on the right, reviewing a small number of orderly unlabelled monitoring displays. In foreground a physical open operational checklist folder, a ruby-red desk status beacon and a precisely linked set of blue service nodes suggest readiness, ownership and continuity. Premium documentary lighting; operational calm, never an emergency or hacker scene. Dark slate surfaces and navy atmosphere.",
+    "role": "service hero",
+    "asset": "dist/assets/v10/support.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "erp-hub",
+    "prompt": "Use case: ads-marketing. Asset: wide 16:9 premium website background, cinematic editorial photography with carefully designed conceptual details. Deep midnight navy, muted steel blue, burgundy-red accents, no bright white background, no blown highlights. Main subject and action on the right 55%; left 45% shadowy and uncluttered for readable white text. Rich tactile materials, credible proportions, elegant lighting, high-end camera quality. No readable text, no logos, no watermark. People are illustrative, not actual Bluzee staff or clients. Practical ERP experience: two young Indian professionals and a mentor in a small real-world inventory demonstration space, checking an actual carton and handheld scanner against a laptop on a workbench. Show hands doing the task, organised blue storage bins and a burgundy trolley in the background, not a lecture or certificates. Tight candid right-side composition with faces visible, thoughtful collaboration, deep blue industrial twilight and restrained warm light.",
+    "role": "service hero",
+    "asset": "dist/assets/v10/erp-hub.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "ai-hub",
+    "prompt": "Use case: ads-marketing. Asset: wide 16:9 premium website background, cinematic editorial photography with carefully designed conceptual details. Deep midnight navy, muted steel blue, burgundy-red accents, no bright white background, no blown highlights. Main subject and action on the right 55%; left 45% shadowy and uncluttered for readable white text. Rich tactile materials, credible proportions, elegant lighting, high-end camera quality. No readable text, no logos, no watermark. People are illustrative, not actual Bluzee staff or clients. Practical AI application engineering: a young Indian woman developer and a peer testing a small physical demo on a dark workbench. Two angled screens show only abstract contrasting code-like lines and a simple unlabelled flow, while a refined blue circuit assembly and ruby cable connection occupy the foreground. This conveys building, testing and explaining useful software, not a robot. Intimate studio photography, midnight blue and controlled red reflections, human focus.",
+    "role": "service hero",
+    "asset": "dist/assets/v10/ai-hub.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "character",
+    "prompt": "Use case: ads-marketing. Asset: wide 16:9 premium website background, cinematic editorial photography with carefully designed conceptual details. Deep midnight navy, muted steel blue, burgundy-red accents, no bright white background, no blown highlights. Main subject and action on the right 55%; left 45% shadowy and uncluttered for readable white text. Rich tactile materials, credible proportions, elegant lighting, high-end camera quality. No readable text, no logos, no watermark. People are illustrative, not actual Bluzee staff or clients. Professional character and accountability: a natural candid mentoring moment, one thoughtful Indian facilitator standing to the right with three young professionals in a semicircle, listening and discussing a real work challenge around a small dark table. One participant is thoughtfully presenting an idea with an open notebook, others engaged respectfully. Sophisticated navy learning studio with one burgundy curved wall, soft spotlight, restrained depth, premium editorial photo; no stage, no certificates, no posed celebration.",
+    "role": "service hero",
+    "asset": "dist/assets/v10/character.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "card-dealtailor",
+    "prompt": "Use case: ads-marketing. Asset: landscape 4:3 editorial product-portfolio image, premium studio still life, photoreal 3D rendering. Scene fills image with balanced subject, dark midnight navy background, muted cyan rim lighting and rich burgundy-red accents. Low key, sophisticated, rich detail, no harsh glow, no white areas, no text, no watermarks, no logos. A refined macro still life of three translucent midnight-blue conversation bubbles, each physically sculpted from glass, converging along thin metal paths toward one solid deep-red rounded waypoint. A small dark smartphone rests nearby. Lead enquiry, understanding, qualified next action. Asymmetric sculptural composition, no people, no background architecture.",
+    "role": "product portfolio card",
+    "asset": "dist/assets/v10/card-dealtailor.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "card-dimaq",
+    "prompt": "Use case: ads-marketing. Asset: landscape 4:3 editorial product-portfolio image, premium studio still life, photoreal 3D rendering. Scene fills image with balanced subject, dark midnight navy background, muted cyan rim lighting and rich burgundy-red accents. Low key, sophisticated, rich detail, no harsh glow, no white areas, no text, no watermarks, no logos. A dramatic close-up of an angular dark-blue optical prism bringing several separate streams of coloured fine data threads into one sharp red point on a slate desk. Different layered translucent sheets suggest independent enterprise datasets. Insight and evidence coming into focus. No sphere, no generic chips.",
+    "role": "product portfolio card",
+    "asset": "dist/assets/v10/card-dimaq.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "card-qsrpro",
+    "prompt": "Use case: ads-marketing. Asset: landscape 4:3 editorial product-portfolio image, premium studio still life, photoreal 3D rendering. Scene fills image with balanced subject, dark midnight navy background, muted cyan rim lighting and rich burgundy-red accents. Low key, sophisticated, rich detail, no harsh glow, no white areas, no text, no watermarks, no logos. Editorial still life of an elegant navy quick-service takeaway tray with a freshly prepared gourmet burger wrapped halfway in plain paper, small ingredient containers and an unbranded dark order tablet, with a striking burgundy heat-lamp arc above. Restaurant ordering, kitchen and stock brought together. No lettering or logos. Appetising but restrained.",
+    "role": "product portfolio card",
+    "asset": "dist/assets/v10/card-qsrpro.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "card-tradesphere",
+    "prompt": "Use case: ads-marketing. Asset: landscape 4:3 editorial product-portfolio image, premium studio still life, photoreal 3D rendering. Scene fills image with balanced subject, dark midnight navy background, muted cyan rim lighting and rich burgundy-red accents. Low key, sophisticated, rich detail, no harsh glow, no white areas, no text, no watermarks, no logos. A miniature architectural still life of a deep-blue warehouse aisle, precisely stacked shipping cartons and a dark miniature delivery truck, connected by a single ruby-red routing ribbon sweeping diagonally across a matte slate surface. Emphasise physical trading, inventory and fulfilment. Real materials, no globe or human.",
+    "role": "product portfolio card",
+    "asset": "dist/assets/v10/card-tradesphere.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "card-nexus",
+    "prompt": "Use case: ads-marketing. Asset: landscape 4:3 editorial product-portfolio image, premium studio still life, photoreal 3D rendering. Scene fills image with balanced subject, dark midnight navy background, muted cyan rim lighting and rich burgundy-red accents. Low key, sophisticated, rich detail, no harsh glow, no white areas, no text, no watermarks, no logos. A dramatic close-up of two distinct blue-glass system blocks joined by an elegantly machined burgundy-red connector, with thin luminous fibre threads crossing the join. Tactile engineered connection and seamless handoffs. Macro depth of field, dark metal and midnight glass. No sphere, no computer chip icon.",
+    "role": "product portfolio card",
+    "asset": "dist/assets/v10/card-nexus.webp",
+    "generation": "built-in image_gen"
+  },
+  {
+    "key": "shared-direction",
+    "asset": "dist/assets/v10/shared-direction.webp",
+    "role": "About vision and mission only",
+    "generation": "previously generated but unused confluence scene"
+  }
+]
