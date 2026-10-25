@@ -1,0 +1,45 @@
+{
+  "method": "Built-in image generation; conceptual marketing imagery, not actual premises or participants.",
+  "assets": [
+    {
+      "key": "home-horizon",
+      "prompt": "A calm, cinematic wide architectural photograph for the homepage of Bluzee, a premium enterprise AI and ERP consultancy. Vast luminous contemporary glass atrium opening onto a coastal Dubai-like skyline and tranquil reflective water; elegantly curved pale stone, delicate indoor trees, soft powder blue morning light. Three natural, diverse business professionals in understated navy and ivory tailoring, small in scale, walking together on the RIGHT half, seen in relaxed three-quarter profile. Sophisticated real-world setting, not a spaceship. Subject and architecture on right two thirds; LEFT third is shaded deep slate/navy architectural negative space with soft organic light falloff, suitable for a large white heading. Finely detailed premium architectural editorial photography, subtly futuristic, soothing, optimistic, human. Extremely wide horizontal 16:9 composition, natural anatomy. No text, no logo, no signage, no graphs, no interface, no neon, no borders. This is a new conceptual marketing background, not a photograph of an actual Bluzee office.",
+      "asset": "dist/assets/v8/home-horizon.webp"
+    },
+    {
+      "key": "erp-world",
+      "prompt": "A luxurious photorealistic enterprise ERP consulting background, wide cinematic 16:9. On the RIGHT side, three diverse experienced consultants in navy, pale blue and ivory clothing lean naturally around a stunning precise miniature model of a connected enterprise: small manufacturing facilities, warehouses, office buildings, transport routes and carefully organized spaces on a large table. Huge glass windows, serene blue morning light, fine architectural details, pale stone floor, airy modern headquarters. Gentle azure light threads connect areas of the model, restrained and believable. Left half has calm soft focus pale blue architecture and generous empty space for navy typography. Human and thoughtful, genuine working discussion, no posed handshake. Premium architecture photography with subtle conceptual CGI enterprise miniature. No words, no numbers, no logo, no UI, no borders, no excessive holograms.",
+      "asset": "dist/assets/v8/erp-world.webp"
+    },
+    {
+      "key": "academy-future",
+      "prompt": "Wide cinematic 16:9 aspirational yet believable architectural editorial photograph for an industry experience academy. A sweeping glass-and-pale-stone innovation campus with an elegant rounded facade, peaceful reflecting pool, sun-dappled trees and soft powder blue haze. On the RIGHT half, four young adult professionals of South Asian and international backgrounds with laptops and elegant casual business clothing walk into an open collaborative studio; through the glass, small groups work with experienced mentors at real desks. Human scale, contemporary enterprise work, not a graduation ceremony. LEFT third quiet open pale architecture and gently shaded blue sky for readable copy. Premium soothing image with real materials, refined white, pale blue and midnight blue accents, beautiful natural light. No words, no logos, no certificates, no signage, no borders. Conceptual academy imagery, not a literal campus claim.",
+      "asset": "dist/assets/v8/academy-future.webp"
+    },
+    {
+      "key": "private-ai",
+      "prompt": "Wide 16:9 premium editorial concept photograph of private enterprise intelligence. A serene blue-hour glass boardroom with understated pale oak and stone, floor-to-ceiling coastal city view. On the RIGHT, two thoughtful diverse business leaders discuss a very subtle transparent blue glass sculptural structure on their table: interconnected luminous points inside a protected crystal-like architectural volume, representing privately controlled AI and connected business data, no chart axes or legible interface. Reflections of fine blue light on the table, human faces natural, calm concentration. LEFT third deep navy architectural shadow provides generous empty space for white copy. Luxurious tactile realism, cinematic restrained blue and tiny burgundy accents. No robot, no glowing brain, no words, no logos, no icons, no visible computer UI, no decorative frame. Conceptual visual only.",
+      "asset": "dist/assets/v8/private-ai.webp"
+    },
+    {
+      "key": "dealtailor-human",
+      "prompt": "Premium cinematic 16:9 editorial photograph for an enterprise private AI lead engagement product. A thoughtful confident South Asian woman sales leader in elegant ivory blouse, at the RIGHT side of a sweeping modern pale stone work desk, speaking naturally with a colleague across the desk. Warm, authentic human engagement. A translucent softly illuminated azure ribbon of light flows gently across the foreground and branches into a few fine luminous pathways, symbolic of conversations becoming opportunities, NOT text bubbles or UI. Beautiful curved glass office overlooking a waterfront skyline, subtle indoor greenery and blue twilight, rich midnight blue shadows on LEFT half with ample empty space for white heading. Photorealistic skin, refined architecture, calm and premium, not corporate stock handshake. No words, no logos, no screens facing camera, no charts, no cards or boxes. Conceptual marketing image, not an actual Bluzee customer photograph.",
+      "asset": "dist/assets/v8/dealtailor-human.webp"
+    },
+    {
+      "key": "purpose-ocean",
+      "prompt": "Wide cinematic 16:9 art-directed architectural landscape photograph for a premium technology company's vision and mission. An impossibly elegant yet believable pale-stone curved walkway sweeps from lower RIGHT through calm glassy azure sea toward a distant low contemporary glass pavilion on a blue horizon. Two small human silhouettes walk side by side on the far right of the pathway. Atmospheric early dawn, soft powder blue light, deep navy water in foreground LEFT, delicate warm coral light on the far horizon. Vast negative space LEFT and ABOVE for white editorial typography; image must be soothing, open, expansive, poetic, and sophisticated. Gentle natural reflections, extraordinary materials and depth. No mountains, no busy city, no text, no logo, no icons, no abstract 3D blobs. Premium conceptual visualization of a blue ocean of opportunities.",
+      "asset": "dist/assets/v8/purpose-ocean.webp"
+    },
+    {
+      "key": "engineering-ai",
+      "prompt": "Wide 16:9 architectural editorial photograph for hands-on AI software development experience. Two young adult developers and an experienced mentor work together in a beautiful contemporary software studio on the RIGHT side of frame; natural focused interaction, dark navy and pale blue clothing, believable laptops angled away so no legible screen content. Behind them an airy curved glass studio, white stone, indoor greenery, sky and distant city, tasteful translucent azure light grid in the glass representing connected technology. LEFT third open quiet pale blue architectural space suitable for large dark navy type. Cool luminous daylight, premium human-centric photorealism, optimistic and soothing. No robot, no certificates, no words, no logos, no poster layout, no neon clutter. Conceptual marketing background.",
+      "asset": "dist/assets/v8/engineering-ai.webp"
+    },
+    {
+      "key": "workshop-human",
+      "prompt": "Wide cinematic 16:9 premium editorial photograph for a professional character and leadership workshop. In a refined contemporary auditorium with curved pale oak and glass walls, a thoughtful diverse group of adult professionals on the RIGHT side discuss around an open table; one facilitator listens attentively while another participant speaks, authentic human warmth, professional confidence, trust and shared reflection. South Asian and international participants, navy and ivory attire, no staged applause, no graduation props. Soft blue ambient daylight, subtle burgundy upholstery accent, elegant architectural depth. LEFT half dark slate blue softly blurred foreground and negative space for white words. Quiet inspiring energy, natural faces and hands, sophisticated editorial realism. No text, no logo, no signage, no charts. A conceptual illustration, not a record of a real Bluzee workshop.",
+      "asset": "dist/assets/v8/workshop-human.webp"
+    }
+  ]
+}

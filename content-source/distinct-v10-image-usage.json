@@ -1,0 +1,135 @@
+{
+  "pages": 20,
+  "unique_editorial_images": 42,
+  "responsive_sources": 31,
+  "scope": "Decorative backgrounds, portfolio cards, AI stream imagery; original proof thumbnails, document previews and brand marks retain their source identities.",
+  "image_usage": {
+    "assets/ai-application.webp": [
+      "services/ai-experience-hub/index.html"
+    ],
+    "assets/ai-hub.webp": [
+      "offerings/index.html"
+    ],
+    "assets/consulting.webp": [
+      "offerings/index.html"
+    ],
+    "assets/dypc.webp": [
+      "offerings/index.html"
+    ],
+    "assets/erp-hub.webp": [
+      "offerings/index.html"
+    ],
+    "assets/events-stage-v5.webp": [
+      "events/index.html"
+    ],
+    "assets/full-stack.webp": [
+      "services/ai-experience-hub/index.html"
+    ],
+    "assets/implementation.webp": [
+      "offerings/index.html"
+    ],
+    "assets/support.webp": [
+      "offerings/index.html"
+    ],
+    "assets/talent.webp": [
+      "offerings/index.html"
+    ],
+    "assets/testimonials-resonance-v5.webp": [
+      "testimonials/index.html"
+    ],
+    "assets/v10/ai-conversation.webp": [
+      "index.html"
+    ],
+    "assets/v10/ai-hub.webp": [
+      "services/ai-experience-hub/index.html"
+    ],
+    "assets/v10/ai-intelligence.webp": [
+      "index.html"
+    ],
+    "assets/v10/card-dealtailor.webp": [
+      "offerings/index.html"
+    ],
+    "assets/v10/card-dimaq.webp": [
+      "offerings/index.html"
+    ],
+    "assets/v10/card-nexus.webp": [
+      "offerings/index.html"
+    ],
+    "assets/v10/card-qsrpro.webp": [
+      "offerings/index.html"
+    ],
+    "assets/v10/card-tradesphere.webp": [
+      "offerings/index.html"
+    ],
+    "assets/v10/character.webp": [
+      "services/professional-character/index.html"
+    ],
+    "assets/v10/consulting.webp": [
+      "services/odoo-erp-consulting/index.html"
+    ],
+    "assets/v10/dealtailor.webp": [
+      "products/dealtailor/index.html"
+    ],
+    "assets/v10/dimaq.webp": [
+      "products/dimaq/index.html"
+    ],
+    "assets/v10/erp-hub.webp": [
+      "services/erp-experience-hub/index.html"
+    ],
+    "assets/v10/implementation.webp": [
+      "services/odoo-erp-implementation/index.html"
+    ],
+    "assets/v10/nexus.webp": [
+      "products/nexus/index.html"
+    ],
+    "assets/v10/qsrpro.webp": [
+      "products/qsrpro/index.html"
+    ],
+    "assets/v10/shared-direction.webp": [
+      "about/index.html"
+    ],
+    "assets/v10/support.webp": [
+      "services/erp-support/index.html"
+    ],
+    "assets/v10/talent.webp": [
+      "services/erp-talent-outsourcing/index.html"
+    ],
+    "assets/v10/tradesphere.webp": [
+      "products/tradesphere/index.html"
+    ],
+    "assets/v8/academy-future.webp": [
+      "index.html"
+    ],
+    "assets/v8/dealtailor-human.webp": [
+      "contact/index.html"
+    ],
+    "assets/v8/erp-world.webp": [
+      "offerings/index.html"
+    ],
+    "assets/v8/home-horizon.webp": [
+      "about/index.html"
+    ],
+    "assets/v8/private-ai.webp": [
+      "index.html"
+    ],
+    "assets/v8/purpose-ocean.webp": [
+      "index.html"
+    ],
+    "assets/v8/workshop-human.webp": [
+      "stories/index.html"
+    ],
+    "assets/v9/arrival.webp": [
+      "index.html"
+    ],
+    "assets/v9/ascent.webp": [
+      "index.html"
+    ],
+    "assets/v9/atlas.webp": [
+      "index.html"
+    ],
+    "assets/v9/pathways.webp": [
+      "index.html"
+    ]
+  },
+  "issues": []
+}

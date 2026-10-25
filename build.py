@@ -148,6 +148,12 @@ from v3_experience import install as install_v3
 install_v3(globals())
 from media_experience import install as install_media
 install_media(globals())
+from cinematic_v8 import install as install_v8
+install_v8(globals())
+from horizon_v9 import install as install_v9
+install_v9(globals())
+from distinct_v10 import install as install_v10
+install_v10(globals())
 
 write('index.html','Intelligence. Put to work.','Private AI products, ERP consulting services and the Bluzee Academy of Experience.',homepage,'home')
 write('about/index.html','About Us','Enterprise consulting, practical AI and experience-led development.',about,'about')
